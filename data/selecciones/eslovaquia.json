@@ -1,0 +1,29 @@
+{
+  "slug": "eslovaquia",
+  "tipo": "seleccion",
+  "nombre": "Eslovaquia",
+  "nombreOficial": "Selección de Eslovaquia",
+  "apodo": "Sokoli",
+  "pais": "SK",
+  "fundacion": 1993,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Eslovaquia"
+  },
+  "colores": {
+    "primario": "#0B4EA2",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Francesco Calzona",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 47,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Eslovaquia — Mundial 2026",
+    "description": "Información de Eslovaquia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

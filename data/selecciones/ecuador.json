@@ -1,0 +1,27 @@
+{
+  "slug": "ecuador",
+  "tipo": "seleccion",
+  "nombre": "Ecuador",
+  "nombreOficial": "Selección Ecuatoriana de Fútbol",
+  "apodo": "La Tri",
+  "pais": "EC",
+  "fundacion": 1925,
+  "escudo": { "src": "/img/crest-placeholder.svg", "alt": "Escudo Ecuador" },
+  "colores": { "primario": "#FFD400", "secundario": "#003893" },
+  "dt": { "nombre": "Sebastián Beccacece", "nacionalidad": "Argentina" },
+  "redes": { "twitter": "https://twitter.com/LaTri" },
+  "fifaRank": 25,
+  "valorPlantilla": { "monto": 480000000, "moneda": "EUR" },
+  "rivalidades": [],
+  "estadisticasDestacadas": [
+    { "label": "Valor plantilla", "value": "€480M", "caption": "Récord Tri", "accent": false },
+    { "label": "Edad media", "value": "26.1", "caption": "18 en Europa", "accent": false },
+    { "label": "Invicto elim.", "value": "11", "caption": "PJ sin perder", "accent": true },
+    { "label": "Mejor defensa", "value": "10", "caption": "GC en 18 PJ", "accent": false }
+  ],
+  "seo": {
+    "title": "Selección de Ecuador — La Tri en el Mundial 2026",
+    "description": "Toda la información de Ecuador en el Mundial 2026: plantilla, partidos, historia, ídolos y rivalidades."
+  },
+  "faq": []
+}

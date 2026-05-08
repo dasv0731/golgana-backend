@@ -1,0 +1,29 @@
+{
+  "slug": "uruguay",
+  "tipo": "seleccion",
+  "nombre": "Uruguay",
+  "nombreOficial": "Selección de Uruguay",
+  "apodo": "La Celeste",
+  "pais": "UY",
+  "fundacion": 1900,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Uruguay"
+  },
+  "colores": {
+    "primario": "#75AADB",
+    "secundario": "#000000"
+  },
+  "dt": {
+    "nombre": "Marcelo Bielsa",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 13,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Uruguay — Mundial 2026",
+    "description": "Información de Uruguay en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

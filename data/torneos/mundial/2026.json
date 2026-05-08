@@ -1,0 +1,45 @@
+{
+  "slug": "2026",
+  "torneo": { "type": "torneo", "slug": "mundial", "nombre": "Mundial" },
+  "ano": 2026,
+  "fechaInicio": "2026-06-11T14:00:00-04:00",
+  "fechaFin": "2026-07-19T15:00:00-04:00",
+  "estado": "upcoming",
+  "participantes": [],
+  "formato": { "tipoFase": "grupos", "descripcion": "12 grupos de 4. 32 selecciones clasifican a octavos." },
+  "fases": [
+    { "slug": "grupos", "nombre": "Fase de grupos", "tipo": "grupos", "partidos": [], "fechaInicio": "2026-06-11T14:00:00-04:00", "fechaFin": "2026-06-27T20:00:00-04:00" },
+    { "slug": "octavos", "nombre": "Octavos de final", "tipo": "eliminatoria", "partidos": [], "fechaInicio": "2026-06-28T12:00:00-04:00", "fechaFin": "2026-07-03T20:00:00-04:00" },
+    { "slug": "cuartos", "nombre": "Cuartos de final", "tipo": "eliminatoria", "partidos": [], "fechaInicio": "2026-07-09T15:00:00-04:00", "fechaFin": "2026-07-11T20:00:00-04:00" },
+    { "slug": "semifinales", "nombre": "Semifinales", "tipo": "eliminatoria", "partidos": [], "fechaInicio": "2026-07-14T15:00:00-04:00", "fechaFin": "2026-07-15T20:00:00-04:00" },
+    { "slug": "final", "nombre": "Final", "tipo": "eliminatoria", "partidos": [], "fechaInicio": "2026-07-19T15:00:00-04:00", "fechaFin": "2026-07-19T20:00:00-04:00" }
+  ],
+  "sedes": [
+    { "slug": "metlife-stadium", "nombre": "MetLife Stadium", "ciudad": "East Rutherford", "pais": "USA", "capacidad": 82500, "partidos": [] },
+    { "slug": "estadio-azteca", "nombre": "Estadio Azteca", "ciudad": "Ciudad de México", "pais": "MEX", "capacidad": 87000, "partidos": [] },
+    { "slug": "sofi-stadium", "nombre": "SoFi Stadium", "ciudad": "Los Ángeles", "pais": "USA", "capacidad": 70000, "partidos": [] },
+    { "slug": "mercedes-benz-stadium", "nombre": "Mercedes-Benz Stadium", "ciudad": "Atlanta", "pais": "USA", "capacidad": 71000, "partidos": [] },
+    { "slug": "bmo-field", "nombre": "BMO Field", "ciudad": "Toronto", "pais": "CAN", "capacidad": 45000, "partidos": [] },
+    { "slug": "estadio-akron", "nombre": "Estadio Akron", "ciudad": "Guadalajara", "pais": "MEX", "capacidad": 49000, "partidos": [] },
+    { "slug": "att-stadium", "nombre": "AT&T Stadium", "ciudad": "Arlington", "pais": "USA", "capacidad": 80000, "partidos": [] },
+    { "slug": "lincoln-financial-field", "nombre": "Lincoln Financial Field", "ciudad": "Filadelfia", "pais": "USA", "capacidad": 69000, "partidos": [] },
+    { "slug": "gillette-stadium", "nombre": "Gillette Stadium", "ciudad": "Boston", "pais": "USA", "capacidad": 65000, "partidos": [] },
+    { "slug": "hard-rock-stadium", "nombre": "Hard Rock Stadium", "ciudad": "Miami", "pais": "USA", "capacidad": 65000, "partidos": [] },
+    { "slug": "nrg-stadium", "nombre": "NRG Stadium", "ciudad": "Houston", "pais": "USA", "capacidad": 72000, "partidos": [] },
+    { "slug": "arrowhead-stadium", "nombre": "Arrowhead Stadium", "ciudad": "Kansas City", "pais": "USA", "capacidad": 76000, "partidos": [] },
+    { "slug": "lumen-field", "nombre": "Lumen Field", "ciudad": "Seattle", "pais": "USA", "capacidad": 68000, "partidos": [] },
+    { "slug": "bc-place", "nombre": "BC Place", "ciudad": "Vancouver", "pais": "CAN", "capacidad": 54000, "partidos": [] },
+    { "slug": "estadio-bbva", "nombre": "Estadio BBVA", "ciudad": "Monterrey", "pais": "MEX", "capacidad": 53000, "partidos": [] },
+    { "slug": "levi-stadium", "nombre": "Levi's Stadium", "ciudad": "Santa Clara", "pais": "USA", "capacidad": 68000, "partidos": [] }
+  ],
+  "seo": {
+    "title": "Mundial 2026 — Calendario, grupos, sedes y selecciones",
+    "description": "Toda la información del Mundial 2026: 48 selecciones, 16 sedes en USA, Canadá y México. Grupos, calendario, sedes y cobertura especial de Ecuador."
+  },
+  "faq": [
+    { "pregunta": "¿Cuándo empieza el Mundial 2026?", "respuesta": "El Mundial 2026 inicia el 11 de junio de 2026 con el partido inaugural en el Estadio Azteca." },
+    { "pregunta": "¿Cuándo es la final del Mundial 2026?", "respuesta": "La final se disputa el 19 de julio de 2026 en el MetLife Stadium de East Rutherford, Nueva Jersey." },
+    { "pregunta": "¿Cómo es el formato del Mundial 2026?", "respuesta": "12 grupos de 4 selecciones cada uno. Los dos primeros de cada grupo y los 8 mejores terceros clasifican a los 16avos de final (32 equipos)." },
+    { "pregunta": "¿Qué grupo le tocó a Ecuador?", "respuesta": "Ecuador fue sorteado en el Grupo D junto a Inglaterra, Costa de Marfil y Uzbekistán." }
+  ]
+}

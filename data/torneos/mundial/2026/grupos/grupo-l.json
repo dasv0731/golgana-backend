@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-l",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "L",
+  "selecciones": [
+    { "type": "seleccion", "slug": "italia", "nombre": "Italia" },
+    { "type": "seleccion", "slug": "croacia", "nombre": "Croacia" },
+    { "type": "seleccion", "slug": "ghana", "nombre": "Ghana" },
+    { "type": "seleccion", "slug": "cabo-verde", "nombre": "Cabo Verde" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo L Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo L del Mundial 2026."
+  }
+}

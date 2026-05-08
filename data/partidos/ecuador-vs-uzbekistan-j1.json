@@ -1,0 +1,70 @@
+{
+  "slug": "ecuador-vs-uzbekistan-j1",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "fase": { "tipo": "grupos", "slug": "grupos", "nombre": "Fase de grupos · J1" },
+  "grupo": { "type": "grupo", "slug": "grupo-d", "nombre": "Grupo D" },
+  "local": { "type": "equipo", "slug": "ecuador", "nombre": "Ecuador" },
+  "visitante": { "type": "equipo", "slug": "uzbekistan", "nombre": "Uzbekistán" },
+  "fecha": "2026-06-12T19:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": { "type": "sede", "slug": "mercedes-benz-stadium", "nombre": "Mercedes-Benz Stadium" },
+  "estado": "scheduled",
+  "arbitro": { "nombre": "TBD", "nacionalidad": "TBD" },
+  "transmision": ["FOX", "Telemundo"],
+  "previa": {
+    "texto": "<p>Ecuador debuta en el Mundial 2026 frente al debutante Uzbekistán en el Mercedes-Benz Stadium de Atlanta. La Tri llega como favorita: invicta en sus últimos 11 partidos de eliminatorias y con la mejor defensa Conmebol (10 goles en contra en 18 partidos).</p><p>Beccacece prepara un 4-3-3 con Caicedo de ancla, Páez como creador y Plata como referencia ofensiva. Uzbekistán, por su lado, llega motivado pero sin la jerarquía individual para sostener un pulso.</p><p>Es un partido de 3 puntos obligatorios para la Tri si quiere terminar primera o segunda del grupo.</p>",
+    "autor": { "type": "autor", "slug": "redaccion", "nombre": "Redacción Golgana" },
+    "fecha": "2026-05-15T10:00:00-05:00"
+  },
+  "alineaciones": {
+    "local": {
+      "formacion": "4-3-3",
+      "titulares": [
+        { "jugador": { "type": "jugador", "slug": "hernan-galindez", "nombre": "Galíndez" }, "dorsal": 1, "posicion": "POR" },
+        { "jugador": { "type": "jugador", "slug": "angelo-preciado", "nombre": "Preciado" }, "dorsal": 17, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "willian-pacho", "nombre": "Pacho" }, "dorsal": 5, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "piero-hincapie", "nombre": "Hincapié" }, "dorsal": 3, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "pervis-estupinan", "nombre": "Estupiñán" }, "dorsal": 7, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "moises-caicedo", "nombre": "Caicedo" }, "dorsal": 25, "posicion": "MED", "capitan": true },
+        { "jugador": { "type": "jugador", "slug": "kendry-paez", "nombre": "Páez" }, "dorsal": 8, "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "denil-castillo", "nombre": "Castillo" }, "dorsal": 10, "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "gonzalo-plata", "nombre": "Plata" }, "dorsal": 11, "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "kevin-rodriguez", "nombre": "Rodríguez" }, "dorsal": 9, "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "jeremy-sarmiento", "nombre": "Sarmiento" }, "dorsal": 20, "posicion": "DEL" }
+      ],
+      "suplentes": [],
+      "dt": { "nombre": "Sebastián Beccacece" },
+      "oficial": false
+    },
+    "visitante": {
+      "formacion": "4-2-3-1",
+      "titulares": [
+        { "jugador": { "type": "jugador", "slug": "uz-1", "nombre": "Nesterov" }, "dorsal": 1, "posicion": "POR" },
+        { "jugador": { "type": "jugador", "slug": "uz-2", "nombre": "Kasimov" }, "dorsal": 2, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "uz-3", "nombre": "Khaydarov" }, "dorsal": 3, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "uz-4", "nombre": "Tursunov" }, "dorsal": 4, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "uz-5", "nombre": "Sergeev" }, "dorsal": 5, "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "uz-6", "nombre": "Marsel" }, "dorsal": 6, "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "uz-7", "nombre": "Yuldashev" }, "dorsal": 7, "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "uz-8", "nombre": "Khusanov" }, "dorsal": 8, "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "uz-9", "nombre": "Marsel-Faiz" }, "dorsal": 9, "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "uz-10", "nombre": "Shomurodov" }, "dorsal": 10, "posicion": "DEL", "capitan": true },
+        { "jugador": { "type": "jugador", "slug": "uz-11", "nombre": "Erkin" }, "dorsal": 11, "posicion": "DEL" }
+      ],
+      "suplentes": [],
+      "dt": { "nombre": "Timur Kapadze" },
+      "oficial": false
+    }
+  },
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Ecuador vs Uzbekistán — Mundial 2026 J1",
+    "description": "Previa, alineaciones probables, datos y predicciones del partido inaugural de Ecuador en el Mundial 2026 vs Uzbekistán en Atlanta."
+  }
+}

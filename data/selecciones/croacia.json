@@ -1,0 +1,29 @@
+{
+  "slug": "croacia",
+  "tipo": "seleccion",
+  "nombre": "Croacia",
+  "nombreOficial": "Selección de Croacia",
+  "apodo": "Vatreni",
+  "pais": "HR",
+  "fundacion": 1912,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Croacia"
+  },
+  "colores": {
+    "primario": "#FF0000",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Zlatko Dalic",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 11,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Croacia — Mundial 2026",
+    "description": "Información de Croacia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

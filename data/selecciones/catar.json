@@ -1,0 +1,29 @@
+{
+  "slug": "catar",
+  "tipo": "seleccion",
+  "nombre": "Catar",
+  "nombreOficial": "Selección de Catar",
+  "apodo": "The Maroons",
+  "pais": "QA",
+  "fundacion": 1960,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Catar"
+  },
+  "colores": {
+    "primario": "#8A1538",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Marquez Lopez",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 38,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Catar — Mundial 2026",
+    "description": "Información de Catar en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "panama",
+  "tipo": "seleccion",
+  "nombre": "Panamá",
+  "nombreOficial": "Selección de Panamá",
+  "apodo": "La Marea Roja",
+  "pais": "PA",
+  "fundacion": 1937,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Panamá"
+  },
+  "colores": {
+    "primario": "#DA121A",
+    "secundario": "#005AA7"
+  },
+  "dt": {
+    "nombre": "Thomas Christiansen",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 38,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Panamá — Mundial 2026",
+    "description": "Información de Panamá en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

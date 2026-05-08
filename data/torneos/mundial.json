@@ -1,0 +1,52 @@
+{
+  "slug": "mundial",
+  "nombre": "Copa Mundial FIFA",
+  "nombreCorto": "Mundial",
+  "tipo": "mundial",
+  "organizador": { "nombre": "FIFA", "sitioWeb": "https://fifa.com" },
+  "fundacion": 1930,
+  "edicionActual": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "edicionesPrevias": [
+    { "type": "edicion", "slug": "2022", "nombre": "Catar 2022" },
+    { "type": "edicion", "slug": "2018", "nombre": "Rusia 2018" },
+    { "type": "edicion", "slug": "2014", "nombre": "Brasil 2014" },
+    { "type": "edicion", "slug": "2010", "nombre": "Sudáfrica 2010" },
+    { "type": "edicion", "slug": "2006", "nombre": "Alemania 2006" }
+  ],
+  "campeones": [
+    { "ano": 1930, "campeon": { "type": "seleccion", "slug": "uruguay", "nombre": "Uruguay" } },
+    { "ano": 1934, "campeon": { "type": "seleccion", "slug": "italia", "nombre": "Italia" } },
+    { "ano": 1938, "campeon": { "type": "seleccion", "slug": "italia", "nombre": "Italia" } },
+    { "ano": 1950, "campeon": { "type": "seleccion", "slug": "uruguay", "nombre": "Uruguay" } },
+    { "ano": 1954, "campeon": { "type": "seleccion", "slug": "alemania", "nombre": "Alemania" } },
+    { "ano": 1958, "campeon": { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" } },
+    { "ano": 1962, "campeon": { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" } },
+    { "ano": 1966, "campeon": { "type": "seleccion", "slug": "inglaterra", "nombre": "Inglaterra" } },
+    { "ano": 1970, "campeon": { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" } },
+    { "ano": 1974, "campeon": { "type": "seleccion", "slug": "alemania", "nombre": "Alemania" } },
+    { "ano": 1978, "campeon": { "type": "seleccion", "slug": "argentina", "nombre": "Argentina" } },
+    { "ano": 1982, "campeon": { "type": "seleccion", "slug": "italia", "nombre": "Italia" } },
+    { "ano": 1986, "campeon": { "type": "seleccion", "slug": "argentina", "nombre": "Argentina" } },
+    { "ano": 1990, "campeon": { "type": "seleccion", "slug": "alemania", "nombre": "Alemania" } },
+    { "ano": 1994, "campeon": { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" } },
+    { "ano": 1998, "campeon": { "type": "seleccion", "slug": "francia", "nombre": "Francia" } },
+    { "ano": 2002, "campeon": { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" } },
+    { "ano": 2006, "campeon": { "type": "seleccion", "slug": "italia", "nombre": "Italia" } },
+    { "ano": 2010, "campeon": { "type": "seleccion", "slug": "espana", "nombre": "España" } },
+    { "ano": 2014, "campeon": { "type": "seleccion", "slug": "alemania", "nombre": "Alemania" } },
+    { "ano": 2018, "campeon": { "type": "seleccion", "slug": "francia", "nombre": "Francia" } },
+    { "ano": 2022, "campeon": { "type": "seleccion", "slug": "argentina", "nombre": "Argentina" } }
+  ],
+  "seo": {
+    "title": "Copa Mundial FIFA — Historia, campeones, formato",
+    "description": "Toda la historia de la Copa Mundial FIFA: campeones, ediciones, formato y la edición 2026 ampliada a 48 selecciones."
+  },
+  "faq": [
+    { "pregunta": "¿Cuándo es el Mundial 2026?", "respuesta": "El Mundial 2026 se disputa del 11 de junio al 19 de julio de 2026 en Estados Unidos, Canadá y México." },
+    { "pregunta": "¿Cuántas selecciones participan en el Mundial 2026?", "respuesta": "Por primera vez en la historia, 48 selecciones disputan la Copa del Mundo, repartidas en 12 grupos de 4 equipos." },
+    { "pregunta": "¿Quién es el campeón vigente?", "respuesta": "Argentina es el campeón vigente, tras vencer a Francia en la final de Catar 2022." },
+    { "pregunta": "¿Cuál es la selección con más mundiales ganados?", "respuesta": "Brasil con 5 títulos (1958, 1962, 1970, 1994, 2002), seguido por Alemania e Italia con 4 cada una." },
+    { "pregunta": "¿Cuántos partidos se juegan en el Mundial 2026?", "respuesta": "104 partidos en total: 72 de fase de grupos y 32 de eliminatoria directa, en 39 días." },
+    { "pregunta": "¿En qué sedes se disputa el Mundial 2026?", "respuesta": "16 sedes en 3 países: 11 en Estados Unidos, 3 en México y 2 en Canadá." }
+  ]
+}

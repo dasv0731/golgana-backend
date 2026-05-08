@@ -1,0 +1,29 @@
+{
+  "slug": "tunez",
+  "tipo": "seleccion",
+  "nombre": "Túnez",
+  "nombreOficial": "Selección de Túnez",
+  "apodo": "Aigles de Carthage",
+  "pais": "TN",
+  "fundacion": 1957,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Túnez"
+  },
+  "colores": {
+    "primario": "#E70013",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Faouzi Benzarti",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 49,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Túnez — Mundial 2026",
+    "description": "Información de Túnez en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

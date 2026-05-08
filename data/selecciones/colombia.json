@@ -1,0 +1,29 @@
+{
+  "slug": "colombia",
+  "tipo": "seleccion",
+  "nombre": "Colombia",
+  "nombreOficial": "Selección de Colombia",
+  "apodo": "Los Cafeteros",
+  "pais": "CO",
+  "fundacion": 1924,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Colombia"
+  },
+  "colores": {
+    "primario": "#FCD116",
+    "secundario": "#003893"
+  },
+  "dt": {
+    "nombre": "Nestor Lorenzo",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 12,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Colombia — Mundial 2026",
+    "description": "Información de Colombia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

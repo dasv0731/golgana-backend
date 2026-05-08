@@ -1,0 +1,29 @@
+{
+  "slug": "senegal",
+  "tipo": "seleccion",
+  "nombre": "Senegal",
+  "nombreOficial": "Selección de Senegal",
+  "apodo": "Lions de la Teranga",
+  "pais": "SN",
+  "fundacion": 1960,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Senegal"
+  },
+  "colores": {
+    "primario": "#00853F",
+    "secundario": "#FCD116"
+  },
+  "dt": {
+    "nombre": "Aliou Cisse",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 19,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Senegal — Mundial 2026",
+    "description": "Información de Senegal en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "portugal",
+  "tipo": "seleccion",
+  "nombre": "Portugal",
+  "nombreOficial": "Selección de Portugal",
+  "apodo": "A Selecao",
+  "pais": "PT",
+  "fundacion": 1914,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Portugal"
+  },
+  "colores": {
+    "primario": "#006600",
+    "secundario": "#FF0000"
+  },
+  "dt": {
+    "nombre": "Roberto Martinez",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 6,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Portugal — Mundial 2026",
+    "description": "Información de Portugal en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "arabia-saudita",
+  "tipo": "seleccion",
+  "nombre": "Arabia Saudita",
+  "nombreOficial": "Selección de Arabia Saudita",
+  "apodo": "Saudi Falcons",
+  "pais": "SA",
+  "fundacion": 1956,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Arabia Saudita"
+  },
+  "colores": {
+    "primario": "#006C35",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Roberto Mancini",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 56,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Arabia Saudita — Mundial 2026",
+    "description": "Información de Arabia Saudita en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

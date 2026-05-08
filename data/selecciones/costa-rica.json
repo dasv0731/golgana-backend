@@ -1,0 +1,29 @@
+{
+  "slug": "costa-rica",
+  "tipo": "seleccion",
+  "nombre": "Costa Rica",
+  "nombreOficial": "Selección de Costa Rica",
+  "apodo": "Sele",
+  "pais": "CR",
+  "fundacion": 1921,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Costa Rica"
+  },
+  "colores": {
+    "primario": "#002B7F",
+    "secundario": "#CE1126"
+  },
+  "dt": {
+    "nombre": "Gustavo Alfaro",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 47,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Costa Rica — Mundial 2026",
+    "description": "Información de Costa Rica en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mexico",
+  "tipo": "seleccion",
+  "nombre": "México",
+  "nombreOficial": "Selección de México",
+  "apodo": "El Tri",
+  "pais": "MX",
+  "fundacion": 1927,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo México"
+  },
+  "colores": {
+    "primario": "#006847",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Javier Aguirre",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 17,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de México — Mundial 2026",
+    "description": "Información de México en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

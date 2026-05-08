@@ -1,0 +1,29 @@
+{
+  "slug": "nigeria",
+  "tipo": "seleccion",
+  "nombre": "Nigeria",
+  "nombreOficial": "Selección de Nigeria",
+  "apodo": "Super Eagles",
+  "pais": "NG",
+  "fundacion": 1945,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Nigeria"
+  },
+  "colores": {
+    "primario": "#008751",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Augustine Eguavoen",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 39,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Nigeria — Mundial 2026",
+    "description": "Información de Nigeria en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

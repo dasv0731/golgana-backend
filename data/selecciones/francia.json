@@ -1,0 +1,29 @@
+{
+  "slug": "francia",
+  "tipo": "seleccion",
+  "nombre": "Francia",
+  "nombreOficial": "Selección de Francia",
+  "apodo": "Les Bleus",
+  "pais": "FR",
+  "fundacion": 1904,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Francia"
+  },
+  "colores": {
+    "primario": "#0055A4",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Didier Deschamps",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 1,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Francia — Mundial 2026",
+    "description": "Información de Francia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

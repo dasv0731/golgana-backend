@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-c",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "C",
+  "selecciones": [
+    { "type": "seleccion", "slug": "usa", "nombre": "Estados Unidos" },
+    { "type": "seleccion", "slug": "japon", "nombre": "Japón" },
+    { "type": "seleccion", "slug": "dinamarca", "nombre": "Dinamarca" },
+    { "type": "seleccion", "slug": "rd-congo", "nombre": "RD del Congo" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo C Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo C del Mundial 2026."
+  }
+}

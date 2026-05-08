@@ -1,0 +1,29 @@
+{
+  "slug": "argentina",
+  "tipo": "seleccion",
+  "nombre": "Argentina",
+  "nombreOficial": "Selección de Argentina",
+  "apodo": "La Albiceleste",
+  "pais": "AR",
+  "fundacion": 1893,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Argentina"
+  },
+  "colores": {
+    "primario": "#75AADB",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Lionel Scaloni",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 2,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Argentina — Mundial 2026",
+    "description": "Información de Argentina en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

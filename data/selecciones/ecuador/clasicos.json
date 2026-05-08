@@ -1,0 +1,14 @@
+{
+  "titulo": "Clásicos de Ecuador",
+  "lead": "Las grandes rivalidades de La Tri.",
+  "clasicos": [
+    { "rival": "Colombia", "tipo": "Vecino regional", "h2h_ec": 12, "h2h_co": 14, "h2h_e": 8, "ultimo": "1-1 (eliminatorias 2026)" },
+    { "rival": "Perú", "tipo": "Frontera sur", "h2h_ec": 11, "h2h_pe": 16, "h2h_e": 10, "ultimo": "0-0 (eliminatorias 2025)" },
+    { "rival": "Bolivia", "tipo": "Andes", "h2h_ec": 18, "h2h_bo": 9, "h2h_e": 6, "ultimo": "3-0 (eliminatorias 2025)" },
+    { "rival": "Brasil", "tipo": "Subcampeón continental histórico", "h2h_ec": 4, "h2h_br": 26, "h2h_e": 5, "ultimo": "1-0 (eliminatorias 2025)" }
+  ],
+  "seo": {
+    "title": "Clásicos y rivalidades de Ecuador",
+    "description": "Los grandes clásicos sudamericanos de la Selección Ecuatoriana: Colombia, Perú, Bolivia, Brasil."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-e",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "E",
+  "selecciones": [
+    { "type": "seleccion", "slug": "francia", "nombre": "Francia" },
+    { "type": "seleccion", "slug": "colombia", "nombre": "Colombia" },
+    { "type": "seleccion", "slug": "argelia", "nombre": "Argelia" },
+    { "type": "seleccion", "slug": "nueva-zelanda", "nombre": "Nueva Zelanda" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo E Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo E del Mundial 2026."
+  }
+}

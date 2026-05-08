@@ -1,0 +1,29 @@
+{
+  "slug": "japon",
+  "tipo": "seleccion",
+  "nombre": "Japón",
+  "nombreOficial": "Selección de Japón",
+  "apodo": "Samurai Blue",
+  "pais": "JP",
+  "fundacion": 1921,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Japón"
+  },
+  "colores": {
+    "primario": "#1B0096",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Hajime Moriyasu",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 18,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Japón — Mundial 2026",
+    "description": "Información de Japón en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ghana",
+  "tipo": "seleccion",
+  "nombre": "Ghana",
+  "nombreOficial": "Selección de Ghana",
+  "apodo": "Black Stars",
+  "pais": "GH",
+  "fundacion": 1957,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Ghana"
+  },
+  "colores": {
+    "primario": "#FCD116",
+    "secundario": "#006B3F"
+  },
+  "dt": {
+    "nombre": "Otto Addo",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 73,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Ghana — Mundial 2026",
+    "description": "Información de Ghana en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "argelia",
+  "tipo": "seleccion",
+  "nombre": "Argelia",
+  "nombreOficial": "Selección de Argelia",
+  "apodo": "Les Fennecs",
+  "pais": "DZ",
+  "fundacion": 1962,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Argelia"
+  },
+  "colores": {
+    "primario": "#006233",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Vladimir Petkovic",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 36,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Argelia — Mundial 2026",
+    "description": "Información de Argelia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

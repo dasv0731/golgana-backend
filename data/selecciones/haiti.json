@@ -1,0 +1,29 @@
+{
+  "slug": "haiti",
+  "tipo": "seleccion",
+  "nombre": "Haití",
+  "nombreOficial": "Selección de Haití",
+  "apodo": "Les Grenadiers",
+  "pais": "HT",
+  "fundacion": 1904,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Haití"
+  },
+  "colores": {
+    "primario": "#00209F",
+    "secundario": "#D21034"
+  },
+  "dt": {
+    "nombre": "Sebastien Migne",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 86,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Haití — Mundial 2026",
+    "description": "Información de Haití en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "espana",
+  "tipo": "seleccion",
+  "nombre": "España",
+  "nombreOficial": "Selección de España",
+  "apodo": "La Roja",
+  "pais": "ES",
+  "fundacion": 1909,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo España"
+  },
+  "colores": {
+    "primario": "#AA151B",
+    "secundario": "#FFC400"
+  },
+  "dt": {
+    "nombre": "Luis de la Fuente",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 3,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de España — Mundial 2026",
+    "description": "Información de España en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

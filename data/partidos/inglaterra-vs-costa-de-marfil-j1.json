@@ -1,0 +1,76 @@
+{
+  "slug": "inglaterra-vs-costa-de-marfil-j1",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "fase": { "tipo": "grupos", "slug": "grupos", "nombre": "Fase de grupos · J1" },
+  "grupo": { "type": "grupo", "slug": "grupo-d", "nombre": "Grupo D" },
+  "local": { "type": "equipo", "slug": "inglaterra", "nombre": "Inglaterra" },
+  "visitante": { "type": "equipo", "slug": "costa-de-marfil", "nombre": "Costa de Marfil" },
+  "fecha": "2026-06-12T15:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": { "type": "sede", "slug": "bmo-field", "nombre": "BMO Field" },
+  "estado": "finished",
+  "marcador": { "local": 2, "visitante": 1 },
+  "arbitro": { "nombre": "S. Marciniak", "nacionalidad": "Polonia" },
+  "transmision": ["FOX", "Telemundo"],
+  "goleadores": [
+    { "minuto": 23, "jugador": { "type": "jugador", "slug": "harry-kane", "nombre": "H. Kane" },        "equipo": { "type": "equipo", "slug": "inglaterra", "nombre": "Inglaterra" }, "tipo": "gol" },
+    { "minuto": 67, "jugador": { "type": "jugador", "slug": "jude-bellingham", "nombre": "J. Bellingham" }, "equipo": { "type": "equipo", "slug": "inglaterra", "nombre": "Inglaterra" }, "tipo": "penal" },
+    { "minuto": 82, "jugador": { "type": "jugador", "slug": "sebastien-haller", "nombre": "S. Haller" }, "equipo": { "type": "equipo", "slug": "costa-de-marfil", "nombre": "Costa de Marfil" }, "tipo": "gol", "asistente": { "type": "jugador", "slug": "franck-kessie", "nombre": "F. Kessié" } }
+  ],
+  "cronica": {
+    "texto": "<p>Inglaterra cumplió en su debut frente a una Costa de Marfil que dio pelea hasta el final. Kane abrió el marcador a los 23' tras una buena combinación con Saka, y Bellingham amplió de penal en el segundo tiempo. Haller descontó al 82', pero los Three Lions cerraron el partido con orden.</p><p>Tuchel destacó la madurez del equipo en la conferencia post-partido. La cita en J2 será frente a Ecuador.</p>",
+    "autor": { "type": "autor", "slug": "redaccion", "nombre": "Redacción Golgana" },
+    "fecha": "2026-06-12T18:00:00-04:00"
+  },
+  "alineaciones": {
+    "local": {
+      "formacion": "4-2-3-1",
+      "titulares": [
+        { "jugador": { "type": "jugador", "slug": "jordan-pickford",  "nombre": "Pickford" },  "dorsal": 1,  "posicion": "POR" },
+        { "jugador": { "type": "jugador", "slug": "kyle-walker",      "nombre": "Walker" },    "dorsal": 2,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "john-stones",      "nombre": "Stones" },    "dorsal": 5,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "marc-guehi",       "nombre": "Guéhi" },     "dorsal": 6,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "luke-shaw",        "nombre": "Shaw" },      "dorsal": 3,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "declan-rice",      "nombre": "Rice" },      "dorsal": 4,  "posicion": "MED", "capitan": true },
+        { "jugador": { "type": "jugador", "slug": "jude-bellingham",  "nombre": "Bellingham" }, "dorsal": 10, "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "phil-foden",       "nombre": "Foden" },     "dorsal": 8,  "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "bukayo-saka",      "nombre": "Saka" },      "dorsal": 7,  "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "harry-kane",       "nombre": "Kane" },      "dorsal": 9,  "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "marcus-rashford",  "nombre": "Rashford" },  "dorsal": 11, "posicion": "DEL" }
+      ],
+      "suplentes": [],
+      "dt": { "nombre": "Thomas Tuchel" },
+      "oficial": true
+    },
+    "visitante": {
+      "formacion": "4-3-3",
+      "titulares": [
+        { "jugador": { "type": "jugador", "slug": "civ-1", "nombre": "Sangaré" },        "dorsal": 1,  "posicion": "POR" },
+        { "jugador": { "type": "jugador", "slug": "civ-2", "nombre": "Aurier" },         "dorsal": 2,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "civ-3", "nombre": "Boly" },           "dorsal": 3,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "civ-4", "nombre": "Diomandé" },       "dorsal": 4,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "civ-5", "nombre": "Singo" },          "dorsal": 5,  "posicion": "DEF" },
+        { "jugador": { "type": "jugador", "slug": "civ-6", "nombre": "Kessié" },         "dorsal": 6,  "posicion": "MED", "capitan": true },
+        { "jugador": { "type": "jugador", "slug": "civ-7", "nombre": "Sangaré F." },     "dorsal": 7,  "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "civ-8", "nombre": "Pépé" },           "dorsal": 8,  "posicion": "MED" },
+        { "jugador": { "type": "jugador", "slug": "civ-9", "nombre": "Haller" },         "dorsal": 9,  "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "civ-10", "nombre": "Diakité" },       "dorsal": 10, "posicion": "DEL" },
+        { "jugador": { "type": "jugador", "slug": "civ-11", "nombre": "Krasso" },        "dorsal": 11, "posicion": "DEL" }
+      ],
+      "suplentes": [],
+      "dt": { "nombre": "Emerse Faé" },
+      "oficial": true
+    }
+  },
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Inglaterra 2-1 Costa de Marfil — Mundial 2026 J1",
+    "description": "Crónica, goleadores, estadísticas y calificaciones del partido inaugural de Inglaterra vs Costa de Marfil en el Mundial 2026."
+  }
+}

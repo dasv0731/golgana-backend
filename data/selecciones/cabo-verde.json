@@ -1,0 +1,29 @@
+{
+  "slug": "cabo-verde",
+  "tipo": "seleccion",
+  "nombre": "Cabo Verde",
+  "nombreOficial": "Selección de Cabo Verde",
+  "apodo": "Tubaroes Azuis",
+  "pais": "CV",
+  "fundacion": 1982,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Cabo Verde"
+  },
+  "colores": {
+    "primario": "#003893",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Pedro Brito Bubista",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 70,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Cabo Verde — Mundial 2026",
+    "description": "Información de Cabo Verde en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

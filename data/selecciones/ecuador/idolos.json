@@ -1,0 +1,16 @@
+{
+  "titulo": "Ídolos de Ecuador",
+  "lead": "El hall of fame de La Tri.",
+  "idolos": [
+    { "nombre": "Alberto Spencer", "era": "1953-1972", "rol": "Delantero", "logros": "Mejor goleador de la historia de Copa Libertadores con Peñarol" },
+    { "nombre": "Antonio Valencia", "era": "2005-2018", "rol": "Extremo derecho", "logros": "Capitán histórico, capitán en Mundial 2014, Premier League con Manchester United" },
+    { "nombre": "Iván Hurtado", "era": "1992-2014", "rol": "Defensor central", "logros": "168 partidos con la selección, capitán de Ecuador 2006" },
+    { "nombre": "Álex Aguinaga", "era": "1987-2002", "rol": "Mediocampista", "logros": "Histórico del fútbol ecuatoriano y mexicano" },
+    { "nombre": "Agustín Delgado", "era": "1995-2008", "rol": "Delantero", "logros": "Goleador histórico de Eliminatorias y Mundiales" },
+    { "nombre": "Edison Méndez", "era": "1999-2010", "rol": "Mediocampista creativo", "logros": "Pieza clave del Mundial 2002 y 2006" }
+  ],
+  "seo": {
+    "title": "Ídolos e historia de la Selección Ecuatoriana",
+    "description": "Hall of fame de la Selección de Ecuador: Spencer, Valencia, Hurtado, Aguinaga, Delgado y Méndez."
+  }
+}

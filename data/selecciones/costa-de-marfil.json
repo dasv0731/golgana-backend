@@ -1,0 +1,29 @@
+{
+  "slug": "costa-de-marfil",
+  "tipo": "seleccion",
+  "nombre": "Costa de Marfil",
+  "nombreOficial": "Selección de Costa de Marfil",
+  "apodo": "Les Elephants",
+  "pais": "CI",
+  "fundacion": 1960,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Costa de Marfil"
+  },
+  "colores": {
+    "primario": "#FF8200",
+    "secundario": "#009E60"
+  },
+  "dt": {
+    "nombre": "Emerse Fae",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 42,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Costa de Marfil — Mundial 2026",
+    "description": "Información de Costa de Marfil en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

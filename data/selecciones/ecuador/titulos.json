@@ -1,0 +1,14 @@
+{
+  "titulo": "Títulos de Ecuador",
+  "lead": "Palmarés y mejores actuaciones internacionales.",
+  "titulos": [],
+  "actuaciones": [
+    { "competicion": "Mundial", "ano": 2006, "resultado": "Octavos de final" },
+    { "competicion": "Copa América", "ano": 1993, "resultado": "Cuartos de final" },
+    { "competicion": "Eliminatorias Sudamericanas", "ano": 2026, "resultado": "Clasificación 2°" }
+  ],
+  "seo": {
+    "title": "Títulos y mejores actuaciones de Ecuador",
+    "description": "Mejores actuaciones de la Selección de Ecuador en Mundial, Copa América y eliminatorias."
+  }
+}

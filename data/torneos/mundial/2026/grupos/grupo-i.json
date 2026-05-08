@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-i",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "I",
+  "selecciones": [
+    { "type": "seleccion", "slug": "portugal", "nombre": "Portugal" },
+    { "type": "seleccion", "slug": "sudafrica", "nombre": "Sudáfrica" },
+    { "type": "seleccion", "slug": "catar", "nombre": "Catar" },
+    { "type": "seleccion", "slug": "gales", "nombre": "Gales" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo I Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo I del Mundial 2026."
+  }
+}

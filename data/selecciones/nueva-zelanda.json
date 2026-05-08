@@ -1,0 +1,29 @@
+{
+  "slug": "nueva-zelanda",
+  "tipo": "seleccion",
+  "nombre": "Nueva Zelanda",
+  "nombreOficial": "Selección de Nueva Zelanda",
+  "apodo": "All Whites",
+  "pais": "NZ",
+  "fundacion": 1891,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Nueva Zelanda"
+  },
+  "colores": {
+    "primario": "#FFFFFF",
+    "secundario": "#000000"
+  },
+  "dt": {
+    "nombre": "Darren Bazeley",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 102,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Nueva Zelanda — Mundial 2026",
+    "description": "Información de Nueva Zelanda en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

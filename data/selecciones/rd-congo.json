@@ -1,0 +1,29 @@
+{
+  "slug": "rd-congo",
+  "tipo": "seleccion",
+  "nombre": "RD Congo",
+  "nombreOficial": "Selección de RD Congo",
+  "apodo": "Leopards",
+  "pais": "CD",
+  "fundacion": 1919,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo RD Congo"
+  },
+  "colores": {
+    "primario": "#007FFF",
+    "secundario": "#FFD700"
+  },
+  "dt": {
+    "nombre": "Sebastien Desabre",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 60,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de RD Congo — Mundial 2026",
+    "description": "Información de RD Congo en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

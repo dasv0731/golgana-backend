@@ -1,0 +1,29 @@
+{
+  "slug": "suiza",
+  "tipo": "seleccion",
+  "nombre": "Suiza",
+  "nombreOficial": "Selección de Suiza",
+  "apodo": "Nati",
+  "pais": "CH",
+  "fundacion": 1895,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Suiza"
+  },
+  "colores": {
+    "primario": "#FF0000",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Murat Yakin",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 19,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Suiza — Mundial 2026",
+    "description": "Información de Suiza en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

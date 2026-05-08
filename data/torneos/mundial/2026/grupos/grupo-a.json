@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-a",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "A",
+  "selecciones": [
+    { "type": "seleccion", "slug": "mexico", "nombre": "México" },
+    { "type": "seleccion", "slug": "canada", "nombre": "Canadá" },
+    { "type": "seleccion", "slug": "marruecos", "nombre": "Marruecos" },
+    { "type": "seleccion", "slug": "iran", "nombre": "Irán" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo A Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo A del Mundial 2026."
+  }
+}

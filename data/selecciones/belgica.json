@@ -1,0 +1,29 @@
+{
+  "slug": "belgica",
+  "tipo": "seleccion",
+  "nombre": "Bélgica",
+  "nombreOficial": "Selección de Bélgica",
+  "apodo": "Diables Rouges",
+  "pais": "BE",
+  "fundacion": 1895,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Bélgica"
+  },
+  "colores": {
+    "primario": "#000000",
+    "secundario": "#FAE042"
+  },
+  "dt": {
+    "nombre": "Domenico Tedesco",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 9,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Bélgica — Mundial 2026",
+    "description": "Información de Bélgica en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

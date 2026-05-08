@@ -1,0 +1,40 @@
+{
+  "equipo": { "type": "equipo", "slug": "ecuador", "nombre": "Ecuador" },
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "jugadores": [
+    { "jugador": { "type": "jugador", "slug": "moises-caicedo", "nombre": "Moisés Caicedo" }, "dorsal": 25, "posicion": "MED", "posicionDetalle": "Volante defensivo", "capitan": true, "titular": true },
+    { "jugador": { "type": "jugador", "slug": "hernan-galindez", "nombre": "Hernán Galíndez" }, "dorsal": 1, "posicion": "POR", "posicionDetalle": "Arquero", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "alexander-dominguez", "nombre": "Alexander Domínguez" }, "dorsal": 22, "posicion": "POR", "posicionDetalle": "Arquero" },
+    { "jugador": { "type": "jugador", "slug": "moises-ramirez", "nombre": "Moisés Ramírez" }, "dorsal": 12, "posicion": "POR", "posicionDetalle": "Arquero" },
+    { "jugador": { "type": "jugador", "slug": "piero-hincapie", "nombre": "Piero Hincapié" }, "dorsal": 3, "posicion": "DEF", "posicionDetalle": "Central", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "willian-pacho", "nombre": "Willian Pacho" }, "dorsal": 5, "posicion": "DEF", "posicionDetalle": "Central", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "felix-torres", "nombre": "Félix Torres" }, "dorsal": 4, "posicion": "DEF", "posicionDetalle": "Central" },
+    { "jugador": { "type": "jugador", "slug": "pervis-estupinan", "nombre": "Pervis Estupiñán" }, "dorsal": 7, "posicion": "DEF", "posicionDetalle": "Lateral izquierdo", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "angelo-preciado", "nombre": "Ángelo Preciado" }, "dorsal": 17, "posicion": "DEF", "posicionDetalle": "Lateral derecho", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "william-pacho-bis", "nombre": "Joel Ordóñez" }, "dorsal": 18, "posicion": "DEF", "posicionDetalle": "Central" },
+    { "jugador": { "type": "jugador", "slug": "robert-arboleda", "nombre": "Robert Arboleda" }, "dorsal": 14, "posicion": "DEF", "posicionDetalle": "Central" },
+    { "jugador": { "type": "jugador", "slug": "kendry-paez", "nombre": "Kendry Páez" }, "dorsal": 8, "posicion": "MED", "posicionDetalle": "Mediocampista ofensivo", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "alan-franco", "nombre": "Alan Franco" }, "dorsal": 19, "posicion": "MED", "posicionDetalle": "Volante mixto" },
+    { "jugador": { "type": "jugador", "slug": "jhegson-mendez", "nombre": "Jhegson Méndez" }, "dorsal": 6, "posicion": "MED", "posicionDetalle": "Volante defensivo" },
+    { "jugador": { "type": "jugador", "slug": "patrickson-delgado", "nombre": "Patrickson Delgado" }, "dorsal": 21, "posicion": "MED", "posicionDetalle": "Volante mixto" },
+    { "jugador": { "type": "jugador", "slug": "jose-cifuentes", "nombre": "José Cifuentes" }, "dorsal": 23, "posicion": "MED", "posicionDetalle": "Volante mixto" },
+    { "jugador": { "type": "jugador", "slug": "yaimar-medina", "nombre": "Yaimar Medina" }, "dorsal": 26, "posicion": "MED", "posicionDetalle": "Volante mixto" },
+    { "jugador": { "type": "jugador", "slug": "gonzalo-plata", "nombre": "Gonzalo Plata" }, "dorsal": 11, "posicion": "DEL", "posicionDetalle": "Extremo derecho", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "kevin-rodriguez", "nombre": "Kevin Rodríguez" }, "dorsal": 9, "posicion": "DEL", "posicionDetalle": "Delantero centro", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "enner-valencia", "nombre": "Enner Valencia" }, "dorsal": 13, "posicion": "DEL", "posicionDetalle": "Delantero centro" },
+    { "jugador": { "type": "jugador", "slug": "jordy-caicedo", "nombre": "Jordy Caicedo" }, "dorsal": 16, "posicion": "DEL", "posicionDetalle": "Delantero centro" },
+    { "jugador": { "type": "jugador", "slug": "leonardo-campana", "nombre": "Leonardo Campana" }, "dorsal": 15, "posicion": "DEL", "posicionDetalle": "Delantero centro" },
+    { "jugador": { "type": "jugador", "slug": "jeremy-sarmiento", "nombre": "Jeremy Sarmiento" }, "dorsal": 20, "posicion": "DEL", "posicionDetalle": "Extremo izquierdo" },
+    { "jugador": { "type": "jugador", "slug": "kevin-minda", "nombre": "Kevin Minda" }, "dorsal": 24, "posicion": "MED", "posicionDetalle": "Volante mixto" },
+    { "jugador": { "type": "jugador", "slug": "denil-castillo", "nombre": "Denil Castillo" }, "dorsal": 10, "posicion": "MED", "posicionDetalle": "Mediocampista ofensivo", "titular": true },
+    { "jugador": { "type": "jugador", "slug": "jhonder-cadena", "nombre": "Jhonder Cadena" }, "dorsal": 2, "posicion": "DEF", "posicionDetalle": "Lateral derecho" }
+  ],
+  "cuerpoTecnico": [
+    { "rol": "DT", "nombre": "Sebastián Beccacece", "nacionalidad": "Argentina" },
+    { "rol": "Asistente técnico", "nombre": "TBD" },
+    { "rol": "Preparador de arqueros", "nombre": "TBD" },
+    { "rol": "Preparador físico", "nombre": "TBD" },
+    { "rol": "Médico", "nombre": "TBD" },
+    { "rol": "Prensa", "nombre": "TBD" }
+  ]
+}

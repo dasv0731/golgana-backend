@@ -1,0 +1,29 @@
+{
+  "slug": "curazao",
+  "tipo": "seleccion",
+  "nombre": "Curazao",
+  "nombreOficial": "Selección de Curazao",
+  "apodo": "Yu di Korsou",
+  "pais": "CW",
+  "fundacion": 1921,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Curazao"
+  },
+  "colores": {
+    "primario": "#002B7F",
+    "secundario": "#FFD23F"
+  },
+  "dt": {
+    "nombre": "Dick Advocaat",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 90,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Curazao — Mundial 2026",
+    "description": "Información de Curazao en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

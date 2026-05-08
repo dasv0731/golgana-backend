@@ -1,0 +1,29 @@
+{
+  "slug": "paises-bajos",
+  "tipo": "seleccion",
+  "nombre": "Países Bajos",
+  "nombreOficial": "Selección de Países Bajos",
+  "apodo": "Oranje",
+  "pais": "NL",
+  "fundacion": 1889,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Países Bajos"
+  },
+  "colores": {
+    "primario": "#FF6C00",
+    "secundario": "#21468B"
+  },
+  "dt": {
+    "nombre": "Ronald Koeman",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 7,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Países Bajos — Mundial 2026",
+    "description": "Información de Países Bajos en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

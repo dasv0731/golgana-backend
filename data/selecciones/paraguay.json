@@ -1,0 +1,29 @@
+{
+  "slug": "paraguay",
+  "tipo": "seleccion",
+  "nombre": "Paraguay",
+  "nombreOficial": "Selección de Paraguay",
+  "apodo": "La Albirroja",
+  "pais": "PY",
+  "fundacion": 1906,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Paraguay"
+  },
+  "colores": {
+    "primario": "#0038A8",
+    "secundario": "#D52B1E"
+  },
+  "dt": {
+    "nombre": "Gustavo Alfaro",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 41,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Paraguay — Mundial 2026",
+    "description": "Información de Paraguay en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

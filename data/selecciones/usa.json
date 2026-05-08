@@ -1,0 +1,29 @@
+{
+  "slug": "usa",
+  "tipo": "seleccion",
+  "nombre": "Estados Unidos",
+  "nombreOficial": "Selección de Estados Unidos",
+  "apodo": "USMNT",
+  "pais": "US",
+  "fundacion": 1913,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Estados Unidos"
+  },
+  "colores": {
+    "primario": "#0A3161",
+    "secundario": "#B22234"
+  },
+  "dt": {
+    "nombre": "Mauricio Pochettino",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 16,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Estados Unidos — Mundial 2026",
+    "description": "Información de Estados Unidos en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

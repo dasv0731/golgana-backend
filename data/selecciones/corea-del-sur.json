@@ -1,0 +1,29 @@
+{
+  "slug": "corea-del-sur",
+  "tipo": "seleccion",
+  "nombre": "Corea del Sur",
+  "nombreOficial": "Selección de Corea del Sur",
+  "apodo": "Taegeuk Warriors",
+  "pais": "KR",
+  "fundacion": 1928,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Corea del Sur"
+  },
+  "colores": {
+    "primario": "#CD2E3A",
+    "secundario": "#0047A0"
+  },
+  "dt": {
+    "nombre": "Hong Myung-bo",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 22,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Corea del Sur — Mundial 2026",
+    "description": "Información de Corea del Sur en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

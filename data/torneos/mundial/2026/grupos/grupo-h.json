@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-h",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "H",
+  "selecciones": [
+    { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" },
+    { "type": "seleccion", "slug": "chile", "nombre": "Chile" },
+    { "type": "seleccion", "slug": "camerun", "nombre": "Camerún" },
+    { "type": "seleccion", "slug": "jordania", "nombre": "Jordania" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo H Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo H del Mundial 2026."
+  }
+}

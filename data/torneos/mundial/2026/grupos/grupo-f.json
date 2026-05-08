@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-f",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "F",
+  "selecciones": [
+    { "type": "seleccion", "slug": "argentina", "nombre": "Argentina" },
+    { "type": "seleccion", "slug": "suiza", "nombre": "Suiza" },
+    { "type": "seleccion", "slug": "egipto", "nombre": "Egipto" },
+    { "type": "seleccion", "slug": "panama", "nombre": "Panamá" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo F Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo F del Mundial 2026."
+  }
+}

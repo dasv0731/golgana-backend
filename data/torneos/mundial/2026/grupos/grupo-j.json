@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-j",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "J",
+  "selecciones": [
+    { "type": "seleccion", "slug": "belgica", "nombre": "Bélgica" },
+    { "type": "seleccion", "slug": "uruguay", "nombre": "Uruguay" },
+    { "type": "seleccion", "slug": "tunez", "nombre": "Túnez" },
+    { "type": "seleccion", "slug": "haiti", "nombre": "Haití" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo J Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo J del Mundial 2026."
+  }
+}

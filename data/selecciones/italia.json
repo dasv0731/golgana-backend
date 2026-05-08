@@ -1,0 +1,29 @@
+{
+  "slug": "italia",
+  "tipo": "seleccion",
+  "nombre": "Italia",
+  "nombreOficial": "Selección de Italia",
+  "apodo": "Azzurri",
+  "pais": "IT",
+  "fundacion": 1898,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Italia"
+  },
+  "colores": {
+    "primario": "#0066CC",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Luciano Spalletti",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 8,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Italia — Mundial 2026",
+    "description": "Información de Italia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

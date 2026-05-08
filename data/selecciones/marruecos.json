@@ -1,0 +1,29 @@
+{
+  "slug": "marruecos",
+  "tipo": "seleccion",
+  "nombre": "Marruecos",
+  "nombreOficial": "Selección de Marruecos",
+  "apodo": "Atlas Lions",
+  "pais": "MA",
+  "fundacion": 1955,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Marruecos"
+  },
+  "colores": {
+    "primario": "#C1272D",
+    "secundario": "#006233"
+  },
+  "dt": {
+    "nombre": "Walid Regragui",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 14,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Marruecos — Mundial 2026",
+    "description": "Información de Marruecos en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

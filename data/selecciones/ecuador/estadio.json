@@ -1,0 +1,21 @@
+{
+  "titulo": "Estadios de Ecuador",
+  "lead": "Sedes habituales de La Tri en eliminatorias y amistosos.",
+  "principal": {
+    "nombre": "Estadio Olímpico Atahualpa",
+    "ciudad": "Quito",
+    "capacidad": 35742,
+    "altitud": 2850,
+    "inauguracion": 1951,
+    "descripcion": "Sede tradicional de la Selección Ecuatoriana en Quito. Su altitud (2850m) ha sido históricamente el principal factor de localía."
+  },
+  "secundarios": [
+    { "nombre": "Estadio Banco Pichincha (Casa Blanca)", "ciudad": "Quito", "capacidad": 41575, "uso": "Algunos partidos de eliminatorias" },
+    { "nombre": "Estadio George Capwell", "ciudad": "Guayaquil", "capacidad": 40000, "uso": "Partidos en costa, fuera de altura" },
+    { "nombre": "Estadio Monumental Banco Pichincha", "ciudad": "Guayaquil", "capacidad": 59283, "uso": "Partidos importantes en costa" }
+  ],
+  "seo": {
+    "title": "Estadios donde juega Ecuador",
+    "description": "Atahualpa, Casa Blanca y Capwell — los estadios habituales de la Selección Ecuatoriana."
+  }
+}

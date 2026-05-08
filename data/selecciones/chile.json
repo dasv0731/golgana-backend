@@ -1,0 +1,29 @@
+{
+  "slug": "chile",
+  "tipo": "seleccion",
+  "nombre": "Chile",
+  "nombreOficial": "Selección de Chile",
+  "apodo": "La Roja",
+  "pais": "CL",
+  "fundacion": 1895,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Chile"
+  },
+  "colores": {
+    "primario": "#D52B1E",
+    "secundario": "#0033A0"
+  },
+  "dt": {
+    "nombre": "Ricardo Gareca",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 50,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Chile — Mundial 2026",
+    "description": "Información de Chile en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

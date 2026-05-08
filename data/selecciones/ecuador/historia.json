@@ -1,0 +1,18 @@
+{
+  "titulo": "Historia de la Selección Ecuatoriana",
+  "lead": "Desde 1925 hasta su 4to Mundial en 2026.",
+  "cuerpo": "<p>La Selección Ecuatoriana de Fútbol fue fundada en 1925 con la creación de la Federación Ecuatoriana de Fútbol. Pasarían casi 80 años antes de su primera clasificación a un Mundial. En 2002, dirigidos por Hernán Darío Bolillo Gómez, Ecuador hizo su debut en Corea/Japón.</p><p>El Mundial de Alemania 2006 marcó el momento más alto: Ecuador clasificó a octavos de final por primera vez en su historia. Caicedo, Castillo, Tenorio, Reasco, Espinoza, De la Cruz, Méndez, Valencia... una generación dorada que llegó hasta los octavos donde cayó frente a Inglaterra.</p><p>Brasil 2014 marcó el regreso al Mundial tras 8 años de ausencia. Catar 2022 confirmó una nueva camada con Caicedo, Estupiñán, Plata, Pacho. Y en 2026, La Tri llega a su cuarto Mundial en EE.UU., Canadá y México.</p>",
+  "hitos": [
+    { "ano": 1925, "evento": "Fundación de la Federación Ecuatoriana de Fútbol" },
+    { "ano": 1938, "evento": "Primer partido oficial vs Bolivia" },
+    { "ano": 2002, "evento": "Primer Mundial — Corea/Japón" },
+    { "ano": 2006, "evento": "Octavos de final en Alemania" },
+    { "ano": 2014, "evento": "Mundial de Brasil — fase de grupos" },
+    { "ano": 2022, "evento": "Mundial de Catar" },
+    { "ano": 2026, "evento": "Cuarto Mundial — USA/Canadá/México" }
+  ],
+  "seo": {
+    "title": "Historia de la Selección de Ecuador",
+    "description": "La historia completa de La Tri: desde su fundación en 1925 hasta su clasificación al Mundial 2026."
+  }
+}

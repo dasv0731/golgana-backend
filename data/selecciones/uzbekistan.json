@@ -1,0 +1,29 @@
+{
+  "slug": "uzbekistan",
+  "tipo": "seleccion",
+  "nombre": "Uzbekistán",
+  "nombreOficial": "Selección de Uzbekistán",
+  "apodo": "White Wolves",
+  "pais": "UZ",
+  "fundacion": 1946,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Uzbekistán"
+  },
+  "colores": {
+    "primario": "#1EB53A",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Timur Kapadze",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 58,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Uzbekistán — Mundial 2026",
+    "description": "Información de Uzbekistán en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

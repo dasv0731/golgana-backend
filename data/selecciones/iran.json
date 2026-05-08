@@ -1,0 +1,29 @@
+{
+  "slug": "iran",
+  "tipo": "seleccion",
+  "nombre": "Irán",
+  "nombreOficial": "Selección de Irán",
+  "apodo": "Team Melli",
+  "pais": "IR",
+  "fundacion": 1920,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Irán"
+  },
+  "colores": {
+    "primario": "#239F40",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Amir Ghalenoei",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 21,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Irán — Mundial 2026",
+    "description": "Información de Irán en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

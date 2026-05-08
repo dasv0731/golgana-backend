@@ -1,0 +1,29 @@
+{
+  "slug": "alemania",
+  "tipo": "seleccion",
+  "nombre": "Alemania",
+  "nombreOficial": "Selección de Alemania",
+  "apodo": "Die Mannschaft",
+  "pais": "DE",
+  "fundacion": 1900,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Alemania"
+  },
+  "colores": {
+    "primario": "#000000",
+    "secundario": "#DD0000"
+  },
+  "dt": {
+    "nombre": "Julian Nagelsmann",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 4,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Alemania — Mundial 2026",
+    "description": "Información de Alemania en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

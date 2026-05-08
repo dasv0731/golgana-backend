@@ -1,0 +1,29 @@
+{
+  "slug": "camerun",
+  "tipo": "seleccion",
+  "nombre": "Camerún",
+  "nombreOficial": "Selección de Camerún",
+  "apodo": "Indomable Lions",
+  "pais": "CM",
+  "fundacion": 1960,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Camerún"
+  },
+  "colores": {
+    "primario": "#007A5E",
+    "secundario": "#FCD116"
+  },
+  "dt": {
+    "nombre": "Marc Brys",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 53,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Camerún — Mundial 2026",
+    "description": "Información de Camerún en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

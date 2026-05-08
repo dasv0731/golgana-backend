@@ -1,0 +1,17 @@
+{
+  "titulo": "Partidos de Ecuador",
+  "lead": "Próximos partidos en el Mundial 2026 y últimos resultados.",
+  "proximos": [
+    { "fecha": "2026-06-12T19:00:00-04:00", "rival": "Uzbekistán", "competicion": "Mundial 2026 · J1", "sede": "Mercedes-Benz Stadium · Atlanta" },
+    { "fecha": "2026-06-17T15:00:00-04:00", "rival": "Inglaterra", "competicion": "Mundial 2026 · J2", "sede": "Lincoln Financial Field · Filadelfia" },
+    { "fecha": "2026-06-23T15:00:00-04:00", "rival": "Costa de Marfil", "competicion": "Mundial 2026 · J3", "sede": "BMO Field · Toronto" }
+  ],
+  "ultimos": [
+    { "fecha": "2026-03-28", "rival": "México", "resultado": "1-0", "competicion": "Amistoso", "sede": "Atahualpa · Quito" },
+    { "fecha": "2026-03-25", "rival": "Argentina", "resultado": "1-1", "competicion": "Eliminatorias", "sede": "Monumental · Buenos Aires" }
+  ],
+  "seo": {
+    "title": "Partidos de Ecuador — Próximos partidos y últimos resultados",
+    "description": "Calendario de partidos de la Selección de Ecuador en el Mundial 2026 y últimos resultados de eliminatorias y amistosos."
+  }
+}

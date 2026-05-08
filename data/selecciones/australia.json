@@ -1,0 +1,29 @@
+{
+  "slug": "australia",
+  "tipo": "seleccion",
+  "nombre": "Australia",
+  "nombreOficial": "Selección de Australia",
+  "apodo": "Socceroos",
+  "pais": "AU",
+  "fundacion": 1961,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Australia"
+  },
+  "colores": {
+    "primario": "#FFCD00",
+    "secundario": "#005523"
+  },
+  "dt": {
+    "nombre": "Tony Popovic",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 23,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Australia — Mundial 2026",
+    "description": "Información de Australia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

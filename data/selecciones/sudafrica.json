@@ -1,0 +1,29 @@
+{
+  "slug": "sudafrica",
+  "tipo": "seleccion",
+  "nombre": "Sudáfrica",
+  "nombreOficial": "Selección de Sudáfrica",
+  "apodo": "Bafana Bafana",
+  "pais": "ZA",
+  "fundacion": 1991,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Sudáfrica"
+  },
+  "colores": {
+    "primario": "#FFB81C",
+    "secundario": "#007749"
+  },
+  "dt": {
+    "nombre": "Hugo Broos",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 56,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Sudáfrica — Mundial 2026",
+    "description": "Información de Sudáfrica en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

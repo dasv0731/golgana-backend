@@ -1,0 +1,29 @@
+{
+  "slug": "brasil",
+  "tipo": "seleccion",
+  "nombre": "Brasil",
+  "nombreOficial": "Selección de Brasil",
+  "apodo": "La Canarinha",
+  "pais": "BR",
+  "fundacion": 1914,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Brasil"
+  },
+  "colores": {
+    "primario": "#FFDF00",
+    "secundario": "#009C3B"
+  },
+  "dt": {
+    "nombre": "Dorival Junior",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 5,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Brasil — Mundial 2026",
+    "description": "Información de Brasil en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

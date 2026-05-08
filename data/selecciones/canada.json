@@ -1,0 +1,29 @@
+{
+  "slug": "canada",
+  "tipo": "seleccion",
+  "nombre": "Canadá",
+  "nombreOficial": "Selección de Canadá",
+  "apodo": "Canucks",
+  "pais": "CA",
+  "fundacion": 1912,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Canadá"
+  },
+  "colores": {
+    "primario": "#FF0000",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Jesse Marsch",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 48,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Canadá — Mundial 2026",
+    "description": "Información de Canadá en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

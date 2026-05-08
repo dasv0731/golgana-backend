@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-g",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "G",
+  "selecciones": [
+    { "type": "seleccion", "slug": "alemania", "nombre": "Alemania" },
+    { "type": "seleccion", "slug": "corea-del-sur", "nombre": "Corea del Sur" },
+    { "type": "seleccion", "slug": "eslovaquia", "nombre": "Eslovaquia" },
+    { "type": "seleccion", "slug": "curazao", "nombre": "Curazao" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo G Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo G del Mundial 2026."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "egipto",
+  "tipo": "seleccion",
+  "nombre": "Egipto",
+  "nombreOficial": "Selección de Egipto",
+  "apodo": "Faraones",
+  "pais": "EG",
+  "fundacion": 1921,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Egipto"
+  },
+  "colores": {
+    "primario": "#CE1126",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Hossam Hassan",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 35,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Egipto — Mundial 2026",
+    "description": "Información de Egipto en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "jordania",
+  "tipo": "seleccion",
+  "nombre": "Jordania",
+  "nombreOficial": "Selección de Jordania",
+  "apodo": "Al Nashama",
+  "pais": "JO",
+  "fundacion": 1949,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Jordania"
+  },
+  "colores": {
+    "primario": "#000000",
+    "secundario": "#CE1126"
+  },
+  "dt": {
+    "nombre": "Hussein Ammouta",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 64,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Jordania — Mundial 2026",
+    "description": "Información de Jordania en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

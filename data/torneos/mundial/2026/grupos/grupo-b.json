@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-b",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "B",
+  "selecciones": [
+    { "type": "seleccion", "slug": "espana", "nombre": "España" },
+    { "type": "seleccion", "slug": "senegal", "nombre": "Senegal" },
+    { "type": "seleccion", "slug": "costa-rica", "nombre": "Costa Rica" },
+    { "type": "seleccion", "slug": "arabia-saudita", "nombre": "Arabia Saudita" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo B Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo B del Mundial 2026."
+  }
+}

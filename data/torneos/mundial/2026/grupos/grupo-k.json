@@ -1,0 +1,17 @@
+{
+  "slug": "grupo-k",
+  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "letra": "K",
+  "selecciones": [
+    { "type": "seleccion", "slug": "paises-bajos", "nombre": "Países Bajos" },
+    { "type": "seleccion", "slug": "australia", "nombre": "Australia" },
+    { "type": "seleccion", "slug": "nigeria", "nombre": "Nigeria" },
+    { "type": "seleccion", "slug": "paraguay", "nombre": "Paraguay" }
+  ],
+  "tabla": [],
+  "partidos": [],
+  "seo": {
+    "title": "Grupo K Mundial 2026",
+    "description": "Tabla, fixture y selecciones del Grupo K del Mundial 2026."
+  }
+}

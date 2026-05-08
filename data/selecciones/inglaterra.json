@@ -1,0 +1,29 @@
+{
+  "slug": "inglaterra",
+  "tipo": "seleccion",
+  "nombre": "Inglaterra",
+  "nombreOficial": "Selección de Inglaterra",
+  "apodo": "Three Lions",
+  "pais": "GB-ENG",
+  "fundacion": 1863,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Inglaterra"
+  },
+  "colores": {
+    "primario": "#FFFFFF",
+    "secundario": "#CE1124"
+  },
+  "dt": {
+    "nombre": "Thomas Tuchel",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 4,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Inglaterra — Mundial 2026",
+    "description": "Información de Inglaterra en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

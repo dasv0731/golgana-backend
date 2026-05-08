@@ -1,0 +1,28 @@
+{
+  "slug": "moises-caicedo",
+  "nombre": "Moisés Caicedo",
+  "nombreCompleto": "Moisés Isaac Caicedo Corozo",
+  "apodo": "Niño Moi",
+  "fechaNacimiento": "2001-11-02",
+  "nacionalidad": "Ecuador",
+  "altura": 178,
+  "peso": 74,
+  "pieDominante": "derecho",
+  "posicion": "MED",
+  "clubActual": { "type": "equipo", "slug": "chelsea", "nombre": "Chelsea FC" },
+  "seleccion": { "type": "equipo", "slug": "ecuador", "nombre": "Ecuador" },
+  "trayectoria": [
+    { "club": { "type": "equipo", "slug": "independiente-del-valle", "nombre": "Independiente del Valle" }, "desde": "2018-01-01", "hasta": "2021-01-31", "tipo": "profesional", "partidos": 28, "goles": 1, "notas": "Debut profesional y traspaso a Brighton" },
+    { "club": { "type": "equipo", "slug": "beerschot", "nombre": "Beerschot" }, "desde": "2021-02-01", "hasta": "2021-06-30", "tipo": "cesion", "partidos": 7, "notas": "Cesión para experiencia en Bélgica" },
+    { "club": { "type": "equipo", "slug": "brighton", "nombre": "Brighton" }, "desde": "2021-07-01", "hasta": "2023-08-13", "tipo": "profesional", "partidos": 53, "goles": 1 },
+    { "club": { "type": "equipo", "slug": "chelsea", "nombre": "Chelsea" }, "desde": "2023-08-14", "tipo": "profesional", "partidos": 80, "goles": 4, "notas": "Récord de transferencia británica al momento del fichaje" }
+  ],
+  "valorMercado": { "monto": 90000000, "moneda": "EUR", "fecha": "2026-01-01", "fuente": "Transfermarkt" },
+  "redes": { "twitter": "https://twitter.com/moicaicedo", "instagram": "https://instagram.com/moicaicedo" },
+  "retirado": false,
+  "seo": {
+    "title": "Moisés Caicedo — Volante de Chelsea y Ecuador",
+    "description": "Perfil de Moisés Caicedo: trayectoria desde Independiente del Valle hasta Chelsea, capitán de Ecuador en el Mundial 2026."
+  },
+  "faq": []
+}
