@@ -1,0 +1,109 @@
+:root {
+  --green: #02CC74;
+  --green-dark: #016b3d;
+  --black: #000;
+  --white: #fff;
+  --grey: #E0E0E0;
+  --bg: #fafafa;
+  --text: #111;
+  --text-muted: rgba(0, 0, 0, 0.55);
+  --divider: rgba(0, 0, 0, 0.08);
+  --danger: #dc2626;
+  --warn: #f59e0b;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+a { color: var(--green-dark); }
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.btn {
+  background: var(--green);
+  color: #fff;
+  border: 0;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 13px;
+  transition: background 0.15s;
+}
+.btn:hover { background: var(--green-dark); }
+.btn--ghost {
+  background: transparent;
+  color: var(--text);
+  border: 1px solid var(--divider);
+}
+.btn--ghost:hover { background: rgba(0, 0, 0, 0.04); }
+.btn--danger { background: var(--danger); }
+.btn--danger:hover { background: #b91c1c; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.input, .textarea, .select {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid var(--divider);
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 13px;
+  background: #fff;
+}
+.textarea { font-family: 'Menlo', monospace; min-height: 120px; }
+.input:focus, .textarea:focus, .select:focus {
+  outline: 2px solid var(--green);
+  outline-offset: -1px;
+  border-color: transparent;
+}
+
+label { display: block; font-size: 11px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-muted); margin: 12px 0 6px; }
+
+.field { margin-bottom: 12px; }
+
+.card {
+  background: #fff;
+  border: 1px solid var(--divider);
+  border-radius: 12px;
+  padding: 18px;
+}
+
+.flash {
+  padding: 10px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  margin: 12px 0;
+}
+.flash--ok { background: rgba(2, 204, 116, 0.1); color: var(--green-dark); }
+.flash--err { background: rgba(220, 38, 38, 0.08); color: var(--danger); }
+
+table.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+table.table th, table.table td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--divider);
+}
+table.table th {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 500;
+  background: #fafafa;
+}
+table.table tr:hover td { background: rgba(2, 204, 116, 0.04); }

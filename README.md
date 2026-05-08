@@ -15,11 +15,18 @@ Fase 1: persistencia en JSON files. Fase 2: DynamoDB (mismo contrato vía reposi
 ## Setup local
 
 ```bash
+# Backend
 npm install
 cp .env.example .env
-# editar .env si quieres cambiar puerto/keys
-npm run dev      # http://localhost:3001
+npm run dev          # http://localhost:3001
+
+# Admin Angular (en otra terminal)
+cd admin
+npm install
+npm start            # http://localhost:4200
 ```
+
+Login del admin: pega el valor de `ADMIN_API_KEY` (default `devkey-change-me`) en el campo del login. Se guarda en `localStorage`. Por ahora es bearer estático; en deploy se sustituye por Cognito JWT sin tocar nada del UI.
 
 Endpoints clave:
 
@@ -57,6 +64,14 @@ curl -H "Authorization: Bearer devkey-change-me" -X PUT \
 ## Estructura
 
 ```
+admin/                  # app Angular 17 standalone (admin UI)
+├── src/app/
+│   ├── core/           # auth service, http interceptor, route guard, ApiService
+│   ├── shared/         # shell con sidebar, page-head, json-editor, crud-list
+│   └── features/       # login, dashboard, entities/* (CRUD por entidad)
+├── angular.json
+└── package.json
+
 src/
 ├── server.ts           # entry local
 ├── app.ts              # Hono app + wiring
