@@ -13,18 +13,28 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:lambda": "node infra/build-lambda.mjs",
+    "build:resolver": "node infra/build-resolver-lambda.mjs",
+    "seed:dynamo": "tsx infra/seed-dynamo.ts",
+    "infra:up": "bash infra/deploy.sh up",
+    "infra:down": "bash infra/deploy.sh down",
+    "infra:status": "bash infra/deploy.sh status"
   },
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1045.0",
+    "@aws-sdk/lib-dynamodb": "^3.1045.0",
     "@hono/node-server": "^1.13.0",
     "@hono/zod-validator": "^0.4.0",
     "dotenv": "^16.4.0",
     "hono": "^4.6.0",
+    "jose": "^6.2.3",
     "zod": "^3.23.0"
   },
   "devDependencies": {
     "@types/node": "^20.17.0",
     "@types/supertest": "^6.0.0",
+    "esbuild": "^0.28.0",
     "eslint": "^9.0.0",
     "supertest": "^7.0.0",
     "tsx": "^4.21.0",

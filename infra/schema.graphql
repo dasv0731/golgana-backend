@@ -1,0 +1,148 @@
+# Golgana GraphQL schema · AppSync
+#
+# Diseño: cada entidad se expone como `{slug, data: AWSJSON}` (o claves
+# compuestas para sub-recursos). Esto preserva el contrato de types/api.ts
+# sin duplicar 600+ líneas de input types anidados.
+#
+# Auth modes:
+#   - API_KEY → primary, queries públicas (Nuxt SSR)
+#   - AMAZON_COGNITO_USER_POOLS → mutations admin
+
+scalar AWSJSON
+scalar AWSDateTime
+
+# ============ Tipos ============
+
+type Equipo @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Jugador @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Partido @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Edicion @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Torneo @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Tema @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Articulo @aws_api_key @aws_cognito_user_pools {
+  slug: ID!
+  data: AWSJSON!
+}
+
+type Plantilla @aws_api_key @aws_cognito_user_pools {
+  equipoSlug: ID!
+  data: AWSJSON!
+}
+
+type Grupo @aws_api_key @aws_cognito_user_pools {
+  edicionSlug: ID!
+  slug: ID!
+  data: AWSJSON!
+}
+
+type SubSeleccion @aws_api_key @aws_cognito_user_pools {
+  equipoSlug: ID!
+  sub: String!
+  data: AWSJSON!
+}
+
+# ============ Derivados ============
+
+type GoleadorRow @aws_api_key @aws_cognito_user_pools {
+  jugador: AWSJSON!
+  equipo: AWSJSON!
+  goles: Int!
+  partidos: Int!
+}
+
+# ============ Queries ============
+
+type Query {
+  # Selecciones
+  selecciones: [Equipo!]!                                      @aws_api_key @aws_cognito_user_pools
+  seleccion(slug: ID!): Equipo                                  @aws_api_key @aws_cognito_user_pools
+  plantilla(equipoSlug: ID!): Plantilla                         @aws_api_key @aws_cognito_user_pools
+  subSeleccion(equipoSlug: ID!, sub: String!): SubSeleccion     @aws_api_key @aws_cognito_user_pools
+
+  # Jugadores
+  jugadores: [Jugador!]!                                         @aws_api_key @aws_cognito_user_pools
+  jugador(slug: ID!): Jugador                                    @aws_api_key @aws_cognito_user_pools
+
+  # Partidos
+  partidos: [Partido!]!                                          @aws_api_key @aws_cognito_user_pools
+  partido(slug: ID!): Partido                                    @aws_api_key @aws_cognito_user_pools
+  calendarioByEdicion(edicionSlug: ID!): [Partido!]!             @aws_api_key @aws_cognito_user_pools
+  goleadoresByEdicion(edicionSlug: ID!): [GoleadorRow!]!         @aws_api_key @aws_cognito_user_pools
+
+  # Torneos / Mundial
+  torneo(slug: ID!): Torneo                                      @aws_api_key @aws_cognito_user_pools
+  edicion(slug: ID!): Edicion                                    @aws_api_key @aws_cognito_user_pools
+  grupos(edicionSlug: ID!): [Grupo!]!                            @aws_api_key @aws_cognito_user_pools
+  grupo(edicionSlug: ID!, slug: ID!): Grupo                      @aws_api_key @aws_cognito_user_pools
+  sedesByEdicion(edicionSlug: ID!): AWSJSON                      @aws_api_key @aws_cognito_user_pools
+
+  # Editorial
+  temas: [Tema!]!                                                @aws_api_key @aws_cognito_user_pools
+  tema(slug: ID!): Tema                                          @aws_api_key @aws_cognito_user_pools
+  noticias: [Articulo!]!                                         @aws_api_key @aws_cognito_user_pools
+  noticia(slug: ID!): Articulo                                   @aws_api_key @aws_cognito_user_pools
+
+  # Health
+  healthz: AWSJSON                                               @aws_api_key @aws_cognito_user_pools
+}
+
+# ============ Mutations (Cognito only) ============
+
+type Mutation {
+  # Selecciones
+  upsertSeleccion(slug: ID!, data: AWSJSON!): Equipo!                          @aws_cognito_user_pools
+  deleteSeleccion(slug: ID!): Boolean!                                          @aws_cognito_user_pools
+  upsertPlantilla(equipoSlug: ID!, data: AWSJSON!): Plantilla!                  @aws_cognito_user_pools
+  deletePlantilla(equipoSlug: ID!): Boolean!                                    @aws_cognito_user_pools
+  upsertSubSeleccion(equipoSlug: ID!, sub: String!, data: AWSJSON!): SubSeleccion! @aws_cognito_user_pools
+
+  # Jugadores
+  upsertJugador(slug: ID!, data: AWSJSON!): Jugador!                            @aws_cognito_user_pools
+  deleteJugador(slug: ID!): Boolean!                                            @aws_cognito_user_pools
+
+  # Partidos
+  upsertPartido(slug: ID!, data: AWSJSON!): Partido!                            @aws_cognito_user_pools
+  deletePartido(slug: ID!): Boolean!                                            @aws_cognito_user_pools
+
+  # Torneos / Mundial
+  upsertTorneo(slug: ID!, data: AWSJSON!): Torneo!                              @aws_cognito_user_pools
+  upsertEdicion(slug: ID!, data: AWSJSON!): Edicion!                            @aws_cognito_user_pools
+  deleteEdicion(slug: ID!): Boolean!                                            @aws_cognito_user_pools
+  upsertGrupo(edicionSlug: ID!, slug: ID!, data: AWSJSON!): Grupo!              @aws_cognito_user_pools
+  deleteGrupo(edicionSlug: ID!, slug: ID!): Boolean!                            @aws_cognito_user_pools
+
+  # Editorial
+  upsertTema(slug: ID!, data: AWSJSON!): Tema!                                  @aws_cognito_user_pools
+  deleteTema(slug: ID!): Boolean!                                               @aws_cognito_user_pools
+  upsertNoticia(slug: ID!, data: AWSJSON!): Articulo!                           @aws_cognito_user_pools
+  deleteNoticia(slug: ID!): Boolean!                                            @aws_cognito_user_pools
+}
+
+schema {
+  query: Query
+  mutation: Mutation
+}

@@ -12,6 +12,12 @@ const EnvSchema = z.object({
   CORS_ORIGINS: z.string().default('http://localhost:4200'),
   STORAGE_DRIVER: z.enum(['json', 'dynamo']).default('json'),
   DATA_DIR: z.string().default('./data'),
+  DDB_TABLE_PREFIX: z.string().default('gg-'),
+
+  // Cognito (opcional en local; requerido cuando se valida JWT)
+  COGNITO_USER_POOL_ID: z.string().optional(),
+  COGNITO_REGION: z.string().default('us-east-1'),
+  COGNITO_APP_CLIENT_ID: z.string().optional(),
 });
 
 const parsed = EnvSchema.safeParse(process.env);
