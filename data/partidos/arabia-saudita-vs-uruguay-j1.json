@@ -1,0 +1,48 @@
+{
+  "slug": "arabia-saudita-vs-uruguay-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-h",
+    "nombre": "Grupo H"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "arabia-saudita",
+    "nombre": "Arabia Saudita"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "uruguay",
+    "nombre": "Uruguay"
+  },
+  "fecha": "2026-06-15T17:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "miami",
+    "nombre": "Hard Rock Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Arabia Saudita vs Uruguay — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Arabia Saudita vs Uruguay en la jornada 1 del Grupo H del Mundial 2026."
+  }
+}

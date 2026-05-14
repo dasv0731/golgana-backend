@@ -1,0 +1,48 @@
+{
+  "slug": "sudafrica-vs-corea-del-sur-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-a",
+    "nombre": "Grupo A"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "sudafrica",
+    "nombre": "Sudáfrica"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "corea-del-sur",
+    "nombre": "Corea del Sur"
+  },
+  "fecha": "2026-06-24T20:00:00-06:00",
+  "zonaHoraria": "America/Monterrey",
+  "sede": {
+    "type": "sede",
+    "slug": "monterrey",
+    "nombre": "Estadio BBVA"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Sudáfrica vs Corea del Sur — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Sudáfrica vs Corea del Sur en la jornada 3 del Grupo A del Mundial 2026."
+  }
+}

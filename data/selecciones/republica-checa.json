@@ -1,0 +1,29 @@
+{
+  "slug": "republica-checa",
+  "tipo": "seleccion",
+  "nombre": "Chequia",
+  "nombreOficial": "Selección de la República Checa",
+  "apodo": "Reprezentace",
+  "pais": "CZ",
+  "fundacion": 1993,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Chequia"
+  },
+  "colores": {
+    "primario": "#11457E",
+    "secundario": "#D7141A"
+  },
+  "dt": {
+    "nombre": "Ivan Hašek",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 38,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Chequia — Mundial 2026",
+    "description": "Información de Chequia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

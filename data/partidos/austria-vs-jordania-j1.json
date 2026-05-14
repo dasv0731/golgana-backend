@@ -1,0 +1,48 @@
+{
+  "slug": "austria-vs-jordania-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-j",
+    "nombre": "Grupo J"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "austria",
+    "nombre": "Austria"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "jordania",
+    "nombre": "Jordania"
+  },
+  "fecha": "2026-06-16T23:00:00-07:00",
+  "zonaHoraria": "America/Los_Angeles",
+  "sede": {
+    "type": "sede",
+    "slug": "san-francisco",
+    "nombre": "Levi's Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Austria vs Jordania — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Austria vs Jordania en la jornada 1 del Grupo J del Mundial 2026."
+  }
+}

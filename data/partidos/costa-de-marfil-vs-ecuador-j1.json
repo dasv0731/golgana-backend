@@ -1,0 +1,48 @@
+{
+  "slug": "costa-de-marfil-vs-ecuador-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-e",
+    "nombre": "Grupo E"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "costa-de-marfil",
+    "nombre": "Costa de Marfil"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "ecuador",
+    "nombre": "Ecuador"
+  },
+  "fecha": "2026-06-14T18:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "philadelphia",
+    "nombre": "Lincoln Financial Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Costa de Marfil vs Ecuador — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Costa de Marfil vs Ecuador en la jornada 1 del Grupo E del Mundial 2026."
+  }
+}

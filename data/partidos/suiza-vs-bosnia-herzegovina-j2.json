@@ -1,0 +1,48 @@
+{
+  "slug": "suiza-vs-bosnia-herzegovina-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-b",
+    "nombre": "Grupo B"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "suiza",
+    "nombre": "Suiza"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "bosnia-herzegovina",
+    "nombre": "Bosnia y Herzegovina"
+  },
+  "fecha": "2026-06-18T14:00:00-07:00",
+  "zonaHoraria": "America/Los_Angeles",
+  "sede": {
+    "type": "sede",
+    "slug": "los-angeles",
+    "nombre": "SoFi Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Suiza vs Bosnia y Herzegovina — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Suiza vs Bosnia y Herzegovina en la jornada 2 del Grupo B del Mundial 2026."
+  }
+}

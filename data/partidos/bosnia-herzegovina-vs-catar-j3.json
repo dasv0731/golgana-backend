@@ -1,0 +1,48 @@
+{
+  "slug": "bosnia-herzegovina-vs-catar-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-b",
+    "nombre": "Grupo B"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "bosnia-herzegovina",
+    "nombre": "Bosnia y Herzegovina"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "catar",
+    "nombre": "Catar"
+  },
+  "fecha": "2026-06-24T14:00:00-07:00",
+  "zonaHoraria": "America/Los_Angeles",
+  "sede": {
+    "type": "sede",
+    "slug": "seattle",
+    "nombre": "Lumen Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Bosnia y Herzegovina vs Catar — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Bosnia y Herzegovina vs Catar en la jornada 3 del Grupo B del Mundial 2026."
+  }
+}

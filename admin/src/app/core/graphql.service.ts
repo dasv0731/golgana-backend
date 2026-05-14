@@ -50,22 +50,24 @@ export class GraphqlService {
 }
 
 /**
- * AppSync devuelve campos AWSJSON como strings (no parseados).
- * Recorremos la respuesta y parseamos los strings cuyo nombre de propiedad sea `data`.
- * Esto es seguro porque por convención todas las entidades del schema usan `data: AWSJSON`.
+ * AppSync devuelve campos AWSJSON como strings JSON-encoded. Auto-parseamos
+ * cualquier string que arranque con `{` o `[` (objetos/arrays). Strings
+ * comunes (slugs, títulos) no empiezan así, son seguros.
  */
 function parseAwsJsonDeep(node: unknown): unknown {
   if (Array.isArray(node)) return node.map(parseAwsJsonDeep);
   if (node && typeof node === 'object') {
     const out: Record<string, unknown> = {};
     for (const [k, v] of Object.entries(node as Record<string, unknown>)) {
-      if (k === 'data' && typeof v === 'string') {
-        try { out[k] = JSON.parse(v); } catch { out[k] = v; }
-      } else {
-        out[k] = parseAwsJsonDeep(v);
-      }
+      out[k] = parseAwsJsonDeep(v);
     }
     return out;
+  }
+  if (typeof node === 'string') {
+    const trimmed = node.trimStart();
+    if (trimmed.startsWith('{') || trimmed.startsWith('[')) {
+      try { return parseAwsJsonDeep(JSON.parse(node)); } catch { /* not JSON */ }
+    }
   }
   return node;
 }

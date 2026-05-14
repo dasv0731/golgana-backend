@@ -1,0 +1,48 @@
+{
+  "slug": "colombia-vs-republica-del-congo-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-k",
+    "nombre": "Grupo K"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "colombia",
+    "nombre": "Colombia"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "republica-del-congo",
+    "nombre": "República del Congo"
+  },
+  "fecha": "2026-06-23T21:00:00-06:00",
+  "zonaHoraria": "America/Mexico_City",
+  "sede": {
+    "type": "sede",
+    "slug": "guadalajara",
+    "nombre": "Estadio Akron"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Colombia vs República del Congo — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Colombia vs República del Congo en la jornada 2 del Grupo K del Mundial 2026."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "republica-del-congo",
+  "tipo": "seleccion",
+  "nombre": "República del Congo",
+  "nombreOficial": "Selección de la República del Congo",
+  "apodo": "Diables Rouges",
+  "pais": "CG",
+  "fundacion": 1962,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo República del Congo"
+  },
+  "colores": {
+    "primario": "#009543",
+    "secundario": "#FBDE4A"
+  },
+  "dt": {
+    "nombre": "Sébastien Migné",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 89,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de República del Congo — Mundial 2026",
+    "description": "Información de República del Congo en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

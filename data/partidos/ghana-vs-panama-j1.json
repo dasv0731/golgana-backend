@@ -1,0 +1,48 @@
+{
+  "slug": "ghana-vs-panama-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-l",
+    "nombre": "Grupo L"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "ghana",
+    "nombre": "Ghana"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "panama",
+    "nombre": "Panamá"
+  },
+  "fecha": "2026-06-17T18:00:00-04:00",
+  "zonaHoraria": "America/Toronto",
+  "sede": {
+    "type": "sede",
+    "slug": "toronto",
+    "nombre": "BMO Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Ghana vs Panamá — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Ghana vs Panamá en la jornada 1 del Grupo L del Mundial 2026."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "turquia",
+  "tipo": "seleccion",
+  "nombre": "Turquía",
+  "nombreOficial": "Selección de Turquía",
+  "apodo": "Ay Yıldızlılar",
+  "pais": "TR",
+  "fundacion": 1923,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Turquía"
+  },
+  "colores": {
+    "primario": "#E30A17",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Vincenzo Montella",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 26,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Turquía — Mundial 2026",
+    "description": "Información de Turquía en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

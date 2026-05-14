@@ -1,17 +1,138 @@
 {
   "slug": "grupo-k",
-  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
   "letra": "K",
   "selecciones": [
-    { "type": "seleccion", "slug": "paises-bajos", "nombre": "Países Bajos" },
-    { "type": "seleccion", "slug": "australia", "nombre": "Australia" },
-    { "type": "seleccion", "slug": "nigeria", "nombre": "Nigeria" },
-    { "type": "seleccion", "slug": "paraguay", "nombre": "Paraguay" }
+    {
+      "type": "seleccion",
+      "slug": "portugal",
+      "nombre": "Portugal"
+    },
+    {
+      "type": "seleccion",
+      "slug": "republica-del-congo",
+      "nombre": "República del Congo"
+    },
+    {
+      "type": "seleccion",
+      "slug": "uzbekistan",
+      "nombre": "Uzbekistán"
+    },
+    {
+      "type": "seleccion",
+      "slug": "colombia",
+      "nombre": "Colombia"
+    }
   ],
-  "tabla": [],
-  "partidos": [],
+  "tabla": [
+    {
+      "posicion": 1,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "portugal",
+        "nombre": "Portugal"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 2,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "republica-del-congo",
+        "nombre": "República del Congo"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 3,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "uzbekistan",
+        "nombre": "Uzbekistán"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 4,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "colombia",
+        "nombre": "Colombia"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    }
+  ],
+  "partidos": [
+    {
+      "type": "partido",
+      "slug": "portugal-vs-republica-del-congo-j1",
+      "nombre": "Portugal vs República del Congo · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "uzbekistan-vs-colombia-j1",
+      "nombre": "Uzbekistán vs Colombia · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "portugal-vs-uzbekistan-j2",
+      "nombre": "Portugal vs Uzbekistán · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "colombia-vs-republica-del-congo-j2",
+      "nombre": "Colombia vs República del Congo · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "colombia-vs-portugal-j3",
+      "nombre": "Colombia vs Portugal · J3"
+    },
+    {
+      "type": "partido",
+      "slug": "republica-del-congo-vs-uzbekistan-j3",
+      "nombre": "República del Congo vs Uzbekistán · J3"
+    }
+  ],
+  "analisis": "Grupo K del Mundial 2026: Portugal, República del Congo, Uzbekistán, Colombia. La fase de grupos arranca el 11 de junio y dos selecciones por grupo avanzan a dieciseisavos.",
   "seo": {
-    "title": "Grupo K Mundial 2026",
-    "description": "Tabla, fixture y selecciones del Grupo K del Mundial 2026."
+    "title": "Grupo K Mundial 2026 — Portugal, República del Congo, Uzbekistán, Colombia",
+    "description": "Tabla, fixture y análisis del Grupo K del Mundial 2026 con Portugal, República del Congo, Uzbekistán, Colombia."
   }
 }

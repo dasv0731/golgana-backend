@@ -1,0 +1,48 @@
+{
+  "slug": "curazao-vs-costa-de-marfil-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-e",
+    "nombre": "Grupo E"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "curazao",
+    "nombre": "Curazao"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "costa-de-marfil",
+    "nombre": "Costa de Marfil"
+  },
+  "fecha": "2026-06-25T15:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "philadelphia",
+    "nombre": "Lincoln Financial Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Curazao vs Costa de Marfil — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Curazao vs Costa de Marfil en la jornada 3 del Grupo E del Mundial 2026."
+  }
+}

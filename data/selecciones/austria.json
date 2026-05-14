@@ -1,0 +1,29 @@
+{
+  "slug": "austria",
+  "tipo": "seleccion",
+  "nombre": "Austria",
+  "nombreOficial": "Selección de Austria",
+  "apodo": "Das Team",
+  "pais": "AT",
+  "fundacion": 1904,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Austria"
+  },
+  "colores": {
+    "primario": "#ED2939",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Ralf Rangnick",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 25,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Austria — Mundial 2026",
+    "description": "Información de Austria en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

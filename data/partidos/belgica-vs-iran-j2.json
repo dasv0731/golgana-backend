@@ -1,0 +1,48 @@
+{
+  "slug": "belgica-vs-iran-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-g",
+    "nombre": "Grupo G"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "belgica",
+    "nombre": "Bélgica"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "iran",
+    "nombre": "Irán"
+  },
+  "fecha": "2026-06-21T14:00:00-07:00",
+  "zonaHoraria": "America/Los_Angeles",
+  "sede": {
+    "type": "sede",
+    "slug": "los-angeles",
+    "nombre": "SoFi Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Bélgica vs Irán — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Bélgica vs Irán en la jornada 2 del Grupo G del Mundial 2026."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "jordania-vs-argelia-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-j",
+    "nombre": "Grupo J"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "jordania",
+    "nombre": "Jordania"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "argelia",
+    "nombre": "Argelia"
+  },
+  "fecha": "2026-06-22T22:00:00-07:00",
+  "zonaHoraria": "America/Los_Angeles",
+  "sede": {
+    "type": "sede",
+    "slug": "san-francisco",
+    "nombre": "Levi's Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Jordania vs Argelia — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Jordania vs Argelia en la jornada 2 del Grupo J del Mundial 2026."
+  }
+}

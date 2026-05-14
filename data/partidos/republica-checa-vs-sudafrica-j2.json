@@ -1,0 +1,48 @@
+{
+  "slug": "republica-checa-vs-sudafrica-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-a",
+    "nombre": "Grupo A"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "republica-checa",
+    "nombre": "Chequia"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "sudafrica",
+    "nombre": "Sudáfrica"
+  },
+  "fecha": "2026-06-18T11:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "atlanta",
+    "nombre": "Mercedes-Benz Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Chequia vs Sudáfrica — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Chequia vs Sudáfrica en la jornada 2 del Grupo A del Mundial 2026."
+  }
+}

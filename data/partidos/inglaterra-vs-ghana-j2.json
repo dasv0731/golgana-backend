@@ -1,0 +1,48 @@
+{
+  "slug": "inglaterra-vs-ghana-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-l",
+    "nombre": "Grupo L"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "inglaterra",
+    "nombre": "Inglaterra"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "ghana",
+    "nombre": "Ghana"
+  },
+  "fecha": "2026-06-23T15:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "boston",
+    "nombre": "Gillette Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Inglaterra vs Ghana — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Inglaterra vs Ghana en la jornada 2 del Grupo L del Mundial 2026."
+  }
+}

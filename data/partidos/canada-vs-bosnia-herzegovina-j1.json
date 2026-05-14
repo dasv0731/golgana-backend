@@ -1,0 +1,48 @@
+{
+  "slug": "canada-vs-bosnia-herzegovina-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-b",
+    "nombre": "Grupo B"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "canada",
+    "nombre": "Canadá"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "bosnia-herzegovina",
+    "nombre": "Bosnia y Herzegovina"
+  },
+  "fecha": "2026-06-12T14:00:00-04:00",
+  "zonaHoraria": "America/Toronto",
+  "sede": {
+    "type": "sede",
+    "slug": "toronto",
+    "nombre": "BMO Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Canadá vs Bosnia y Herzegovina — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Canadá vs Bosnia y Herzegovina en la jornada 1 del Grupo B del Mundial 2026."
+  }
+}

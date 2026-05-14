@@ -1,0 +1,48 @@
+{
+  "slug": "noruega-vs-francia-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-i",
+    "nombre": "Grupo I"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "noruega",
+    "nombre": "Noruega"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "francia",
+    "nombre": "Francia"
+  },
+  "fecha": "2026-06-26T14:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "boston",
+    "nombre": "Gillette Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Noruega vs Francia — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Noruega vs Francia en la jornada 3 del Grupo I del Mundial 2026."
+  }
+}

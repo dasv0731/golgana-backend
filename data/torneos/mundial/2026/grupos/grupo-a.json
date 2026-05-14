@@ -1,17 +1,138 @@
 {
   "slug": "grupo-a",
-  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
   "letra": "A",
   "selecciones": [
-    { "type": "seleccion", "slug": "mexico", "nombre": "México" },
-    { "type": "seleccion", "slug": "canada", "nombre": "Canadá" },
-    { "type": "seleccion", "slug": "marruecos", "nombre": "Marruecos" },
-    { "type": "seleccion", "slug": "iran", "nombre": "Irán" }
+    {
+      "type": "seleccion",
+      "slug": "mexico",
+      "nombre": "México"
+    },
+    {
+      "type": "seleccion",
+      "slug": "sudafrica",
+      "nombre": "Sudáfrica"
+    },
+    {
+      "type": "seleccion",
+      "slug": "corea-del-sur",
+      "nombre": "Corea del Sur"
+    },
+    {
+      "type": "seleccion",
+      "slug": "republica-checa",
+      "nombre": "Chequia"
+    }
   ],
-  "tabla": [],
-  "partidos": [],
+  "tabla": [
+    {
+      "posicion": 1,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "mexico",
+        "nombre": "México"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 2,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "sudafrica",
+        "nombre": "Sudáfrica"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 3,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "corea-del-sur",
+        "nombre": "Corea del Sur"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 4,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "republica-checa",
+        "nombre": "Chequia"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    }
+  ],
+  "partidos": [
+    {
+      "type": "partido",
+      "slug": "mexico-vs-sudafrica-j1",
+      "nombre": "México vs Sudáfrica · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "corea-del-sur-vs-republica-checa-j1",
+      "nombre": "Corea del Sur vs Chequia · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "republica-checa-vs-sudafrica-j2",
+      "nombre": "Chequia vs Sudáfrica · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "mexico-vs-corea-del-sur-j2",
+      "nombre": "México vs Corea del Sur · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "sudafrica-vs-corea-del-sur-j3",
+      "nombre": "Sudáfrica vs Corea del Sur · J3"
+    },
+    {
+      "type": "partido",
+      "slug": "republica-checa-vs-mexico-j3",
+      "nombre": "Chequia vs México · J3"
+    }
+  ],
+  "analisis": "Grupo A del Mundial 2026: México, Sudáfrica, Corea del Sur, Chequia. La fase de grupos arranca el 11 de junio y dos selecciones por grupo avanzan a dieciseisavos.",
   "seo": {
-    "title": "Grupo A Mundial 2026",
-    "description": "Tabla, fixture y selecciones del Grupo A del Mundial 2026."
+    "title": "Grupo A Mundial 2026 — México, Sudáfrica, Corea del Sur, Chequia",
+    "description": "Tabla, fixture y análisis del Grupo A del Mundial 2026 con México, Sudáfrica, Corea del Sur, Chequia."
   }
 }

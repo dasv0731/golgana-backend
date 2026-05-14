@@ -1,0 +1,48 @@
+{
+  "slug": "portugal-vs-republica-del-congo-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-k",
+    "nombre": "Grupo K"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "portugal",
+    "nombre": "Portugal"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "republica-del-congo",
+    "nombre": "República del Congo"
+  },
+  "fecha": "2026-06-17T12:00:00-05:00",
+  "zonaHoraria": "America/Chicago",
+  "sede": {
+    "type": "sede",
+    "slug": "houston",
+    "nombre": "NRG Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Portugal vs República del Congo — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Portugal vs República del Congo en la jornada 1 del Grupo K del Mundial 2026."
+  }
+}

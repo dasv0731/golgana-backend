@@ -1,0 +1,48 @@
+{
+  "slug": "panama-vs-croacia-j2",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J2"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-l",
+    "nombre": "Grupo L"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "panama",
+    "nombre": "Panamá"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "croacia",
+    "nombre": "Croacia"
+  },
+  "fecha": "2026-06-23T18:00:00-04:00",
+  "zonaHoraria": "America/Toronto",
+  "sede": {
+    "type": "sede",
+    "slug": "toronto",
+    "nombre": "BMO Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Panamá vs Croacia — Mundial 2026 J2",
+    "description": "Previa, alineaciones, sede y horario de Panamá vs Croacia en la jornada 2 del Grupo L del Mundial 2026."
+  }
+}

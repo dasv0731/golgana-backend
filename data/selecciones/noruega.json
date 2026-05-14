@@ -1,0 +1,29 @@
+{
+  "slug": "noruega",
+  "tipo": "seleccion",
+  "nombre": "Noruega",
+  "nombreOficial": "Selección de Noruega",
+  "apodo": "Drillos",
+  "pais": "NO",
+  "fundacion": 1902,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Noruega"
+  },
+  "colores": {
+    "primario": "#BA0C2F",
+    "secundario": "#00205B"
+  },
+  "dt": {
+    "nombre": "Ståle Solbakken",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 32,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Noruega — Mundial 2026",
+    "description": "Información de Noruega en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

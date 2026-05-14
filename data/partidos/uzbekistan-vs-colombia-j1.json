@@ -1,0 +1,48 @@
+{
+  "slug": "uzbekistan-vs-colombia-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-k",
+    "nombre": "Grupo K"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "uzbekistan",
+    "nombre": "Uzbekistán"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "colombia",
+    "nombre": "Colombia"
+  },
+  "fecha": "2026-06-17T21:00:00-06:00",
+  "zonaHoraria": "America/Mexico_City",
+  "sede": {
+    "type": "sede",
+    "slug": "ciudad-de-mexico",
+    "nombre": "Estadio Azteca"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Uzbekistán vs Colombia — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Uzbekistán vs Colombia en la jornada 1 del Grupo K del Mundial 2026."
+  }
+}

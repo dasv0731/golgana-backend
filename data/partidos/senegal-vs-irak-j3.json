@@ -1,0 +1,48 @@
+{
+  "slug": "senegal-vs-irak-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-i",
+    "nombre": "Grupo I"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "senegal",
+    "nombre": "Senegal"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "irak",
+    "nombre": "Irak"
+  },
+  "fecha": "2026-06-26T14:00:00-04:00",
+  "zonaHoraria": "America/Toronto",
+  "sede": {
+    "type": "sede",
+    "slug": "toronto",
+    "nombre": "BMO Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Senegal vs Irak — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Senegal vs Irak en la jornada 3 del Grupo I del Mundial 2026."
+  }
+}

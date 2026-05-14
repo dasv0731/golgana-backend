@@ -1,0 +1,48 @@
+{
+  "slug": "republica-del-congo-vs-uzbekistan-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-k",
+    "nombre": "Grupo K"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "republica-del-congo",
+    "nombre": "República del Congo"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "uzbekistan",
+    "nombre": "Uzbekistán"
+  },
+  "fecha": "2026-06-27T18:30:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "atlanta",
+    "nombre": "Mercedes-Benz Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "República del Congo vs Uzbekistán — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de República del Congo vs Uzbekistán en la jornada 3 del Grupo K del Mundial 2026."
+  }
+}

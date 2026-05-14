@@ -1,0 +1,48 @@
+{
+  "slug": "francia-vs-senegal-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-i",
+    "nombre": "Grupo I"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "francia",
+    "nombre": "Francia"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "senegal",
+    "nombre": "Senegal"
+  },
+  "fecha": "2026-06-16T14:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "nueva-jersey",
+    "nombre": "MetLife Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Francia vs Senegal — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Francia vs Senegal en la jornada 1 del Grupo I del Mundial 2026."
+  }
+}

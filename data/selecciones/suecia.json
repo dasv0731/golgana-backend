@@ -1,0 +1,29 @@
+{
+  "slug": "suecia",
+  "tipo": "seleccion",
+  "nombre": "Suecia",
+  "nombreOficial": "Selección de Suecia",
+  "apodo": "Blågult",
+  "pais": "SE",
+  "fundacion": 1904,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Suecia"
+  },
+  "colores": {
+    "primario": "#005AA0",
+    "secundario": "#FECC00"
+  },
+  "dt": {
+    "nombre": "Jon Dahl Tomasson",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 41,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Suecia — Mundial 2026",
+    "description": "Información de Suecia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

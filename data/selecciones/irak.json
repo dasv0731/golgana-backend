@@ -1,0 +1,29 @@
+{
+  "slug": "irak",
+  "tipo": "seleccion",
+  "nombre": "Irak",
+  "nombreOficial": "Selección de Irak",
+  "apodo": "Leones de Mesopotamia",
+  "pais": "IQ",
+  "fundacion": 1948,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Irak"
+  },
+  "colores": {
+    "primario": "#007A3D",
+    "secundario": "#CE1126"
+  },
+  "dt": {
+    "nombre": "Graham Arnold",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 56,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Irak — Mundial 2026",
+    "description": "Información de Irak en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

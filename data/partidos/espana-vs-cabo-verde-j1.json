@@ -1,0 +1,48 @@
+{
+  "slug": "espana-vs-cabo-verde-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-h",
+    "nombre": "Grupo H"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "espana",
+    "nombre": "España"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "cabo-verde",
+    "nombre": "Cabo Verde"
+  },
+  "fecha": "2026-06-15T11:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "atlanta",
+    "nombre": "Mercedes-Benz Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "España vs Cabo Verde — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de España vs Cabo Verde en la jornada 1 del Grupo H del Mundial 2026."
+  }
+}

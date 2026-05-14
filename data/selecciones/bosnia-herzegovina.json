@@ -1,0 +1,29 @@
+{
+  "slug": "bosnia-herzegovina",
+  "tipo": "seleccion",
+  "nombre": "Bosnia y Herzegovina",
+  "nombreOficial": "Selección de Bosnia y Herzegovina",
+  "apodo": "Zmajevi",
+  "pais": "BA",
+  "fundacion": 1992,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Bosnia y Herzegovina"
+  },
+  "colores": {
+    "primario": "#002395",
+    "secundario": "#FECB00"
+  },
+  "dt": {
+    "nombre": "Sergej Barbarez",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 74,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Bosnia y Herzegovina — Mundial 2026",
+    "description": "Información de Bosnia y Herzegovina en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

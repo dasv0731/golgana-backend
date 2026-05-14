@@ -19,9 +19,105 @@
     { "label": "Invicto elim.", "value": "11", "caption": "PJ sin perder", "accent": true },
     { "label": "Mejor defensa", "value": "10", "caption": "GC en 18 PJ", "accent": false }
   ],
+  "resumen": {
+    "metricas": [
+      { "kicker": "Eliminatorias",         "valor": "2°",  "caption": "Conmebol · 25 pts en 18 PJ",      "tono": "green" },
+      { "kicker": "Goles a favor",         "valor": "22",  "caption": "3° mejor ataque eliminatorias",  "tono": "default" },
+      { "kicker": "Mundialistas activos",  "valor": "14",  "caption": "Estuvieron en Qatar 2022",       "tono": "dark" }
+    ],
+    "racha": {
+      "titulo": "Racha sólida — 7G · 2E · 1P",
+      "forma": ["G","G","E","G","P","G","G","E","G","G"],
+      "caption": "vs México (1-0) · Brasil (1-0) · Italia (1-1) · Japón (2-1) · Portugal (1-2)"
+    },
+    "piezaClave": {
+      "dorsal": 22,
+      "nombre": "Moisés Caicedo",
+      "rol": "Capitán · Mediocentro · Chelsea",
+      "jugadorSlug": "moises-caicedo"
+    }
+  },
+  "estilo": {
+    "formacion": "4-3-3",
+    "chips": [
+      { "label": "4-3-3",                "tono": "green" },
+      { "label": "Presión alta",         "tono": "green" },
+      { "label": "Salida desde el fondo" },
+      { "label": "Pivote único" },
+      { "label": "Transición vertical",  "tono": "out" },
+      { "label": "Bloque medio",         "tono": "dark" }
+    ],
+    "lead": "El 4-3-3 de Beccacece se sostiene en tres pilares: Caicedo como pivote único que permite a Sarmiento e Hincapié subir, una línea defensiva alta con Pacho e Hincapié leyendo el offside, y dos extremos abiertos —Plata por derecha, Páez por izquierda— que generan superioridades. La identidad: presionar en campo rival y atacar el espacio cuando se recupera.",
+    "stats": [
+      { "label": "Posesión",                       "valor": "54%", "width": 54 },
+      { "label": "PPDA (presión)",                 "valor": "9.2", "width": 78 },
+      { "label": "Recuperaciones campo rival",     "valor": "7.1", "width": 71 },
+      { "label": "xG por partido",                 "valor": "1.8", "width": 63 }
+    ],
+    "xi": {
+      "filas": [
+        [
+          { "num": 14, "nombre": "Plata" },
+          { "num": 9,  "nombre": "E. Valencia" },
+          { "num": 19, "nombre": "J. Sarmiento" }
+        ],
+        [
+          { "num": 23, "nombre": "M. Sarmiento" },
+          { "num": 10, "nombre": "Páez" },
+          { "num": 22, "nombre": "Caicedo (C)", "capitan": true }
+        ],
+        [
+          { "num": 7,  "nombre": "Estupiñán" },
+          { "num": 3,  "nombre": "Hincapié" },
+          { "num": 4,  "nombre": "Pacho" },
+          { "num": 17, "nombre": "Preciado" }
+        ],
+        [
+          { "num": 1,  "nombre": "Galíndez" }
+        ]
+      ],
+      "padding": ["", "0 14%", "", ""]
+    }
+  },
+  "plantillaDestacada": [
+    { "num": 1,  "pos": "POR",       "nombre": "Galíndez" },
+    { "num": 4,  "pos": "DEF",       "nombre": "Pacho" },
+    { "num": 3,  "pos": "DEF",       "nombre": "Hincapié" },
+    { "num": 7,  "pos": "DEF",       "nombre": "Estupiñán" },
+    { "num": 17, "pos": "DEF",       "nombre": "Preciado" },
+    { "num": 22, "pos": "CAP · MED", "nombre": "Caicedo", "destacado": true, "jugadorSlug": "moises-caicedo" },
+    { "num": 23, "pos": "MED",       "nombre": "M. Sarmiento" },
+    { "num": 10, "pos": "MED",       "nombre": "Páez" },
+    { "num": 8,  "pos": "MED",       "nombre": "Franco" },
+    { "num": 9,  "pos": "DEL",       "nombre": "E. Valencia" },
+    { "num": 14, "pos": "DEL",       "nombre": "Plata" },
+    { "num": 19, "pos": "DEL",       "nombre": "J. Sarmiento" }
+  ],
+  "editorial": {
+    "lead": {
+      "kicker": "Análisis · 5 may",
+      "titulo": "Beccacece confirma el XI: Caicedo capitán y Páez de enganche libre frente a Costa de Marfil",
+      "cuerpo": "El DT argentino sorprende con Páez de 10 y mantiene a Estupiñán pese a las dudas físicas. La práctica a puertas cerradas dejó pistas claras: presión alta desde el primer minuto y Plata por derecha como variante de desequilibrio.",
+      "meta": "Por Carlos Mosquera · 8 min lectura",
+      "href": "#"
+    },
+    "notas": [
+      { "kicker": "Crónica",     "titulo": "Pacho responde a Alemania: 'No le tenemos miedo a Wirtz'",        "meta": "4 may · 4 min",  "href": "#" },
+      { "kicker": "Datos",       "titulo": "Por qué la Tri llega como mejor defensa de Conmebol",             "meta": "3 may · 6 min",  "href": "#" },
+      { "kicker": "Entrevista",  "titulo": "Kendry Páez: 'Crecí viendo Mundiales, ahora me toca jugar uno'",  "meta": "2 may · 12 min", "href": "#" },
+      { "kicker": "Opinión",     "titulo": "¿Hincapié o Mina como tercero detrás? El dilema de Beccacece",   "meta": "1 may · 7 min",  "href": "#" },
+      { "kicker": "Hinchada",    "titulo": "22.000 ecuatorianos viajan a Philadelphia: el operativo Tri",    "meta": "30 abr · 5 min", "href": "#" }
+    ]
+  },
+  "historia": [
+    { "kicker": "2002 · Corea/Japón", "titulo": "Debut",   "caption": "Fase de grupos · 1G 2P · Eliminado." },
+    { "kicker": "2006 · Alemania",    "titulo": "Octavos", "caption": "Mejor actuación · perdió 0-3 con Inglaterra.", "destacado": true },
+    { "kicker": "2014 · Brasil",      "titulo": "Grupos",  "caption": "Suiza-Honduras-Francia · 4 pts · eliminado por gol diferencia." },
+    { "kicker": "2022 · Catar",       "titulo": "Grupos",  "caption": "Catar-Países Bajos-Senegal · 4 pts · eliminado por gol diferencia." }
+  ],
   "seo": {
-    "title": "Selección de Ecuador — La Tri en el Mundial 2026",
-    "description": "Toda la información de Ecuador en el Mundial 2026: plantilla, partidos, historia, ídolos y rivalidades."
+    "title": "Selección de Ecuador — La Tri en el Mundial 2026 (Grupo E)",
+    "description": "Toda la información de Ecuador en el Mundial 2026: plantilla, partidos, historia, ídolos y análisis táctico de La Tri."
   },
   "faq": []
 }

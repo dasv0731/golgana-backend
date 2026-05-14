@@ -1,0 +1,48 @@
+{
+  "slug": "irak-vs-noruega-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-i",
+    "nombre": "Grupo I"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "irak",
+    "nombre": "Irak"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "noruega",
+    "nombre": "Noruega"
+  },
+  "fecha": "2026-06-16T17:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "boston",
+    "nombre": "Gillette Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Irak vs Noruega — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Irak vs Noruega en la jornada 1 del Grupo I del Mundial 2026."
+  }
+}

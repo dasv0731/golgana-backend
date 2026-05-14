@@ -1,0 +1,48 @@
+{
+  "slug": "turquia-vs-usa-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-d",
+    "nombre": "Grupo D"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "turquia",
+    "nombre": "Turquía"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "usa",
+    "nombre": "Estados Unidos"
+  },
+  "fecha": "2026-06-25T21:00:00-07:00",
+  "zonaHoraria": "America/Los_Angeles",
+  "sede": {
+    "type": "sede",
+    "slug": "los-angeles",
+    "nombre": "SoFi Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Turquía vs Estados Unidos — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Turquía vs Estados Unidos en la jornada 3 del Grupo D del Mundial 2026."
+  }
+}

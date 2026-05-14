@@ -1,17 +1,138 @@
 {
   "slug": "grupo-h",
-  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
   "letra": "H",
   "selecciones": [
-    { "type": "seleccion", "slug": "brasil", "nombre": "Brasil" },
-    { "type": "seleccion", "slug": "chile", "nombre": "Chile" },
-    { "type": "seleccion", "slug": "camerun", "nombre": "Camerún" },
-    { "type": "seleccion", "slug": "jordania", "nombre": "Jordania" }
+    {
+      "type": "seleccion",
+      "slug": "espana",
+      "nombre": "España"
+    },
+    {
+      "type": "seleccion",
+      "slug": "cabo-verde",
+      "nombre": "Cabo Verde"
+    },
+    {
+      "type": "seleccion",
+      "slug": "arabia-saudita",
+      "nombre": "Arabia Saudita"
+    },
+    {
+      "type": "seleccion",
+      "slug": "uruguay",
+      "nombre": "Uruguay"
+    }
   ],
-  "tabla": [],
-  "partidos": [],
+  "tabla": [
+    {
+      "posicion": 1,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "espana",
+        "nombre": "España"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 2,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "cabo-verde",
+        "nombre": "Cabo Verde"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 3,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "arabia-saudita",
+        "nombre": "Arabia Saudita"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 4,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "uruguay",
+        "nombre": "Uruguay"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    }
+  ],
+  "partidos": [
+    {
+      "type": "partido",
+      "slug": "espana-vs-cabo-verde-j1",
+      "nombre": "España vs Cabo Verde · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "arabia-saudita-vs-uruguay-j1",
+      "nombre": "Arabia Saudita vs Uruguay · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "espana-vs-arabia-saudita-j2",
+      "nombre": "España vs Arabia Saudita · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "uruguay-vs-cabo-verde-j2",
+      "nombre": "Uruguay vs Cabo Verde · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "cabo-verde-vs-arabia-saudita-j3",
+      "nombre": "Cabo Verde vs Arabia Saudita · J3"
+    },
+    {
+      "type": "partido",
+      "slug": "uruguay-vs-espana-j3",
+      "nombre": "Uruguay vs España · J3"
+    }
+  ],
+  "analisis": "Grupo H del Mundial 2026: España, Cabo Verde, Arabia Saudita, Uruguay. La fase de grupos arranca el 11 de junio y dos selecciones por grupo avanzan a dieciseisavos.",
   "seo": {
-    "title": "Grupo H Mundial 2026",
-    "description": "Tabla, fixture y selecciones del Grupo H del Mundial 2026."
+    "title": "Grupo H Mundial 2026 — España, Cabo Verde, Arabia Saudita, Uruguay",
+    "description": "Tabla, fixture y análisis del Grupo H del Mundial 2026 con España, Cabo Verde, Arabia Saudita, Uruguay."
   }
 }

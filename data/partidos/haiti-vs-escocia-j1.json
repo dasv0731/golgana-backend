@@ -1,0 +1,48 @@
+{
+  "slug": "haiti-vs-escocia-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-c",
+    "nombre": "Grupo C"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "haiti",
+    "nombre": "Haití"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "escocia",
+    "nombre": "Escocia"
+  },
+  "fecha": "2026-06-13T20:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "boston",
+    "nombre": "Gillette Stadium"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Haití vs Escocia — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de Haití vs Escocia en la jornada 1 del Grupo C del Mundial 2026."
+  }
+}

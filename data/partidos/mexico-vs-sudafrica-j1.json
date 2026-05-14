@@ -1,0 +1,48 @@
+{
+  "slug": "mexico-vs-sudafrica-j1",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J1"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-a",
+    "nombre": "Grupo A"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "mexico",
+    "nombre": "México"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "sudafrica",
+    "nombre": "Sudáfrica"
+  },
+  "fecha": "2026-06-11T14:00:00-06:00",
+  "zonaHoraria": "America/Mexico_City",
+  "sede": {
+    "type": "sede",
+    "slug": "ciudad-de-mexico",
+    "nombre": "Estadio Azteca"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "México vs Sudáfrica — Mundial 2026 J1",
+    "description": "Previa, alineaciones, sede y horario de México vs Sudáfrica en la jornada 1 del Grupo A del Mundial 2026."
+  }
+}

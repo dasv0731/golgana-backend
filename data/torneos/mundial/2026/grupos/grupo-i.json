@@ -1,17 +1,138 @@
 {
   "slug": "grupo-i",
-  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
   "letra": "I",
   "selecciones": [
-    { "type": "seleccion", "slug": "portugal", "nombre": "Portugal" },
-    { "type": "seleccion", "slug": "sudafrica", "nombre": "Sudáfrica" },
-    { "type": "seleccion", "slug": "catar", "nombre": "Catar" },
-    { "type": "seleccion", "slug": "gales", "nombre": "Gales" }
+    {
+      "type": "seleccion",
+      "slug": "francia",
+      "nombre": "Francia"
+    },
+    {
+      "type": "seleccion",
+      "slug": "senegal",
+      "nombre": "Senegal"
+    },
+    {
+      "type": "seleccion",
+      "slug": "irak",
+      "nombre": "Irak"
+    },
+    {
+      "type": "seleccion",
+      "slug": "noruega",
+      "nombre": "Noruega"
+    }
   ],
-  "tabla": [],
-  "partidos": [],
+  "tabla": [
+    {
+      "posicion": 1,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "francia",
+        "nombre": "Francia"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 2,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "senegal",
+        "nombre": "Senegal"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 3,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "irak",
+        "nombre": "Irak"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 4,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "noruega",
+        "nombre": "Noruega"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    }
+  ],
+  "partidos": [
+    {
+      "type": "partido",
+      "slug": "francia-vs-senegal-j1",
+      "nombre": "Francia vs Senegal · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "irak-vs-noruega-j1",
+      "nombre": "Irak vs Noruega · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "francia-vs-irak-j2",
+      "nombre": "Francia vs Irak · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "noruega-vs-senegal-j2",
+      "nombre": "Noruega vs Senegal · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "noruega-vs-francia-j3",
+      "nombre": "Noruega vs Francia · J3"
+    },
+    {
+      "type": "partido",
+      "slug": "senegal-vs-irak-j3",
+      "nombre": "Senegal vs Irak · J3"
+    }
+  ],
+  "analisis": "Grupo I del Mundial 2026: Francia, Senegal, Irak, Noruega. La fase de grupos arranca el 11 de junio y dos selecciones por grupo avanzan a dieciseisavos.",
   "seo": {
-    "title": "Grupo I Mundial 2026",
-    "description": "Tabla, fixture y selecciones del Grupo I del Mundial 2026."
+    "title": "Grupo I Mundial 2026 — Francia, Senegal, Irak, Noruega",
+    "description": "Tabla, fixture y análisis del Grupo I del Mundial 2026 con Francia, Senegal, Irak, Noruega."
   }
 }

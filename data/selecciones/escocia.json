@@ -1,0 +1,29 @@
+{
+  "slug": "escocia",
+  "tipo": "seleccion",
+  "nombre": "Escocia",
+  "nombreOficial": "Selección de Escocia",
+  "apodo": "Tartan Army",
+  "pais": "GB-SCT",
+  "fundacion": 1873,
+  "escudo": {
+    "src": "/img/crest-placeholder.svg",
+    "alt": "Escudo Escocia"
+  },
+  "colores": {
+    "primario": "#0065BD",
+    "secundario": "#FFFFFF"
+  },
+  "dt": {
+    "nombre": "Steve Clarke",
+    "nacionalidad": "TBD"
+  },
+  "redes": {},
+  "fifaRank": 39,
+  "rivalidades": [],
+  "seo": {
+    "title": "Selección de Escocia — Mundial 2026",
+    "description": "Información de Escocia en el Mundial 2026: plantilla, partidos y datos clave."
+  },
+  "faq": []
+}

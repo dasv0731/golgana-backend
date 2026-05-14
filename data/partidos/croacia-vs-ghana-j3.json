@@ -1,0 +1,48 @@
+{
+  "slug": "croacia-vs-ghana-j3",
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
+  "fase": {
+    "tipo": "grupos",
+    "slug": "grupos",
+    "nombre": "Fase de grupos · J3"
+  },
+  "grupo": {
+    "type": "grupo",
+    "slug": "grupo-l",
+    "nombre": "Grupo L"
+  },
+  "local": {
+    "type": "equipo",
+    "slug": "croacia",
+    "nombre": "Croacia"
+  },
+  "visitante": {
+    "type": "equipo",
+    "slug": "ghana",
+    "nombre": "Ghana"
+  },
+  "fecha": "2026-06-27T16:00:00-04:00",
+  "zonaHoraria": "America/New_York",
+  "sede": {
+    "type": "sede",
+    "slug": "philadelphia",
+    "nombre": "Lincoln Financial Field"
+  },
+  "estado": "scheduled",
+  "transmision": [],
+  "h2h": {
+    "totalEnfrentamientos": 0,
+    "victoriasLocal": 0,
+    "empates": 0,
+    "victoriasVisitante": 0,
+    "ultimosResultados": []
+  },
+  "seo": {
+    "title": "Croacia vs Ghana — Mundial 2026 J3",
+    "description": "Previa, alineaciones, sede y horario de Croacia vs Ghana en la jornada 3 del Grupo L del Mundial 2026."
+  }
+}

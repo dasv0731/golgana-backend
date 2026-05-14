@@ -1,17 +1,138 @@
 {
   "slug": "grupo-l",
-  "edicion": { "type": "edicion", "slug": "2026", "nombre": "Mundial 2026" },
+  "edicion": {
+    "type": "edicion",
+    "slug": "2026",
+    "nombre": "Mundial 2026"
+  },
   "letra": "L",
   "selecciones": [
-    { "type": "seleccion", "slug": "italia", "nombre": "Italia" },
-    { "type": "seleccion", "slug": "croacia", "nombre": "Croacia" },
-    { "type": "seleccion", "slug": "ghana", "nombre": "Ghana" },
-    { "type": "seleccion", "slug": "cabo-verde", "nombre": "Cabo Verde" }
+    {
+      "type": "seleccion",
+      "slug": "inglaterra",
+      "nombre": "Inglaterra"
+    },
+    {
+      "type": "seleccion",
+      "slug": "croacia",
+      "nombre": "Croacia"
+    },
+    {
+      "type": "seleccion",
+      "slug": "ghana",
+      "nombre": "Ghana"
+    },
+    {
+      "type": "seleccion",
+      "slug": "panama",
+      "nombre": "Panamá"
+    }
   ],
-  "tabla": [],
-  "partidos": [],
+  "tabla": [
+    {
+      "posicion": 1,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "inglaterra",
+        "nombre": "Inglaterra"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 2,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "croacia",
+        "nombre": "Croacia"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 3,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "ghana",
+        "nombre": "Ghana"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    },
+    {
+      "posicion": 4,
+      "seleccion": {
+        "type": "seleccion",
+        "slug": "panama",
+        "nombre": "Panamá"
+      },
+      "pj": 0,
+      "g": 0,
+      "e": 0,
+      "p": 0,
+      "gf": 0,
+      "gc": 0,
+      "dg": 0,
+      "pts": 0,
+      "forma": []
+    }
+  ],
+  "partidos": [
+    {
+      "type": "partido",
+      "slug": "inglaterra-vs-croacia-j1",
+      "nombre": "Inglaterra vs Croacia · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "ghana-vs-panama-j1",
+      "nombre": "Ghana vs Panamá · J1"
+    },
+    {
+      "type": "partido",
+      "slug": "inglaterra-vs-ghana-j2",
+      "nombre": "Inglaterra vs Ghana · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "panama-vs-croacia-j2",
+      "nombre": "Panamá vs Croacia · J2"
+    },
+    {
+      "type": "partido",
+      "slug": "croacia-vs-ghana-j3",
+      "nombre": "Croacia vs Ghana · J3"
+    },
+    {
+      "type": "partido",
+      "slug": "panama-vs-inglaterra-j3",
+      "nombre": "Panamá vs Inglaterra · J3"
+    }
+  ],
+  "analisis": "Grupo L del Mundial 2026: Inglaterra, Croacia, Ghana, Panamá. La fase de grupos arranca el 11 de junio y dos selecciones por grupo avanzan a dieciseisavos.",
   "seo": {
-    "title": "Grupo L Mundial 2026",
-    "description": "Tabla, fixture y selecciones del Grupo L del Mundial 2026."
+    "title": "Grupo L Mundial 2026 — Inglaterra, Croacia, Ghana, Panamá",
+    "description": "Tabla, fixture y análisis del Grupo L del Mundial 2026 con Inglaterra, Croacia, Ghana, Panamá."
   }
 }
